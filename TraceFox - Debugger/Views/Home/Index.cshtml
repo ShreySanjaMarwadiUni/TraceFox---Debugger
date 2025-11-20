@@ -1,0 +1,91 @@
+﻿@{
+    ViewData["Title"] = "TraceFox – Python Debugger";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<link href="https://cdnjs.cloudflare.com/ajax/libs/prism/1.29.0/themes/prism-tomorrow.min.css" rel="stylesheet" />
+<script src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.29.0/prism.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.29.0/components/prism-python.min.js"></script>
+
+<div class="container-fluid">
+    <div class="row">
+        <!-- Editor -->
+        <div class="col-md-8">
+            <div id="editorContainer">
+                <div id="codeEditable" class="language-python" contenteditable="true" spellcheck="false">x = 20
+y = 10
+print(y + 2)
+z = x + y
+print(z)
+                </div>
+
+                <div id="codeDisplay" style="display:none;">
+                    <pre><code id="codeDisplayInner" class="language-python"></code></pre>
+                </div>
+
+
+                <!-- Read-only highlighted display -->
+                <pre id="codeDisplay" class="language-python border p-2 highlighted-code"
+                     style="display:none;height:400px;overflow:auto;white-space:pre;font-family:monospace;">
+<code class="language-python" id="codeDisplayInner"></code></pre>
+            </div>
+
+            <div class="mt-2">
+                <button id="btnRun" class="btn btn-success">Run</button>
+                <button id="btnStep" class="btn btn-primary" disabled>Step</button>
+                <button id="btnFullRun" class="btn btn-info">FullRun</button>
+                <button id="btnEdit" class="btn btn-secondary">Edit</button>
+            </div>
+        </div>
+
+        <!-- Variables -->
+        <div class="col-md-4">
+            <h5>Variables</h5>
+            <table id="varsTable" class="table table-sm table-bordered">
+                <thead><tr><th>Name</th><th>Value</th></tr></thead>
+                <tbody></tbody>
+            </table>
+
+            <h5 class="mt-3">Console</h5>
+            <pre id="console" class="bg-dark text-light p-2" style="height:150px;overflow:auto;"></pre>
+        </div>
+    </div>
+</div>
+
+<style>
+    /* Prism theme tweak + line highlight styling */
+    .highlighted-code {
+        font-size: 13px;
+        line-height: 1.4;
+        position: relative;
+    }
+
+    .line-highlight {
+        display: block;
+        background: rgba(255, 255, 0, 0.2);
+        border-left: 4px solid orange;
+        margin: 0 -16px;
+        padding: 0 16px;
+    }
+
+    #codeEditable {
+        border: 1px solid #444;
+        padding: 10px;
+        font-family: monospace;
+        min-height: 200px;
+        overflow-y: auto;
+        background: #1e1e1e;
+        color: #dcdcdc;
+        white-space: pre;
+    }
+
+    .line-highlight {
+        background-color: rgba(255, 255, 0, 0.2);
+        display: inline-block;
+        width: 100%;
+    }
+
+</style>
+
+@section Scripts {
+        <script src="~/js/tracefox.js"></script>
+}

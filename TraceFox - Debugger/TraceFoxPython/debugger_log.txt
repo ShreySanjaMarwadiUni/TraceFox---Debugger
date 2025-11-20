@@ -1,0 +1,2066 @@
+[2025-11-03 18:58:29] Sent initial ready handshake to parent.
+[2025-11-03 18:58:29] === NEW DEBUGGER SESSION ===
+[2025-11-03 18:58:29] Session ID: 2c4837b3-612d-496f-b4b7-de628f35a8c7
+[2025-11-03 18:58:29] End-of-code marker received.
+[2025-11-03 18:58:29] Read user code, 5 lines.
+[2025-11-03 18:58:29] TraceFoxDebugger initialized.
+[2025-11-03 18:58:29] run_code() started (redirected stdout/stderr)
+[2025-11-03 18:58:29] User code compiled successfully.
+[2025-11-03 18:58:29] Emitted step line=2 (count=1)
+[2025-11-03 18:58:30] Received command: 'continue'
+[2025-11-03 18:58:30] self.run(compiled) returned (user code finished).
+[2025-11-03 18:58:30] Sent finished message to parent.
+[2025-11-03 18:58:30] run_code() ended and stdout/stderr restored.
+[2025-11-03 18:58:30] Debugger main() completed run_code().
+[2025-11-03 19:01:18] Sent initial ready handshake to parent.
+[2025-11-03 19:01:18] === NEW DEBUGGER SESSION ===
+[2025-11-03 19:01:18] Session ID: 6614618a-88b8-400a-8d8f-2df1958d0e17
+[2025-11-03 19:01:18] End-of-code marker received.
+[2025-11-03 19:01:18] Read user code, 5 lines.
+[2025-11-03 19:01:18] TraceFoxDebugger initialized.
+[2025-11-03 19:01:18] run_code() started (redirected stdout/stderr)
+[2025-11-03 19:01:18] User code compiled successfully.
+[2025-11-03 19:01:18] Emitted step line=2 (count=1)
+[2025-11-03 19:01:19] Received command: 'continue'
+[2025-11-03 19:01:19] self.run(compiled) returned (user code finished).
+[2025-11-03 19:01:19] Sent finished message to parent.
+[2025-11-03 19:01:19] Entering post-finish command wait loop.
+[2025-11-03 19:01:23] Ignoring post-finish command: 'continue'
+[2025-11-03 19:01:49] Ignoring post-finish command: 'continue'
+[2025-11-03 19:01:51] Ignoring post-finish command: 'continue'
+[2025-11-03 19:02:13] EOF or stdin closed after finish; exiting wait loop.
+[2025-11-03 19:03:09] Sent initial ready handshake to parent.
+[2025-11-03 19:03:09] === NEW DEBUGGER SESSION ===
+[2025-11-03 19:03:09] Session ID: b6aa8dd7-8558-4afd-84aa-00e19d1bab36
+[2025-11-03 19:03:09] End-of-code marker received.
+[2025-11-03 19:03:09] Read user code, 5 lines.
+[2025-11-03 19:03:09] TraceFoxDebugger initialized.
+[2025-11-03 19:03:09] run_code() started (redirected stdout/stderr)
+[2025-11-03 19:03:09] User code compiled successfully.
+[2025-11-03 19:03:09] Emitted step line=2 (count=1)
+[2025-11-03 19:03:10] Received command: 'continue'
+[2025-11-03 19:03:10] self.run(compiled) returned (user code finished).
+[2025-11-03 19:03:10] Sent finished message to parent.
+[2025-11-03 19:03:10] Entering post-finish command wait loop.
+[2025-11-03 19:03:10] Ignoring post-finish command: 'continue'
+[2025-11-03 19:08:08] EOF or stdin closed after finish; exiting wait loop.
+[2025-11-03 19:08:08] run_code() ended and stdout/stderr restored.
+[2025-11-03 19:08:08] Debugger main() completed run_code().
+[2025-11-03 19:10:51] Sent initial ready handshake to parent.
+[2025-11-03 19:10:51] === NEW DEBUGGER SESSION ===
+[2025-11-03 19:10:51] Session ID: 80ba9e34-7380-495a-b78b-0dcac0395634
+[2025-11-03 19:10:51] End-of-code marker received.
+[2025-11-03 19:10:51] Read user code, 5 lines.
+[2025-11-03 19:10:51] TraceFoxDebugger initialized.
+[2025-11-03 19:10:51] run_code() started (redirected stdout/stderr)
+[2025-11-03 19:10:51] User code compiled successfully.
+[2025-11-03 19:10:51] Emitted step line=2 (count=1)
+[2025-11-03 19:10:52] Received command: 'continue'
+[2025-11-03 19:10:52] self.run(compiled) returned (user code finished).
+[2025-11-03 19:10:52] Sent finished message to parent.
+[2025-11-03 19:10:52] Entering post-finish command wait loop.
+[2025-11-03 19:11:40] EOF or stdin closed after finish; exiting wait loop.
+[2025-11-03 19:14:45] Sent initial ready handshake to parent.
+[2025-11-03 19:14:45] === NEW DEBUGGER SESSION ===
+[2025-11-03 19:14:45] Session ID: a8157120-ceb4-4941-8645-bbf4d5e53ee1
+[2025-11-03 19:14:45] End-of-code marker received.
+[2025-11-03 19:14:45] Read user code, 5 lines.
+[2025-11-03 19:14:45] TraceFoxDebugger initialized.
+[2025-11-03 19:14:45] run_code() started (redirected stdout/stderr)
+[2025-11-03 19:14:45] User code compiled successfully.
+[2025-11-03 19:14:45] Emitted step line=2 (count=1)
+[2025-11-03 19:14:45] Received command: 'continue'
+[2025-11-03 19:14:45] self.run(compiled) returned (user code finished).
+[2025-11-03 19:14:45] Sent finished message to parent.
+[2025-11-03 19:14:45] Entering post-finish command wait loop.
+[2025-11-03 19:15:30] EOF or stdin closed after finish; exiting wait loop.
+[2025-11-03 19:15:30] run_code() ended and stdout/stderr restored.
+[2025-11-03 19:15:30] Debugger main() completed run_code().
+[2025-11-03 19:19:36] Sent initial ready handshake to parent.
+[2025-11-03 19:19:36] === NEW DEBUGGER SESSION ===
+[2025-11-03 19:19:36] Session ID: b8f033a0-69a0-44d4-9326-8fd5e51b33c6
+[2025-11-03 19:19:36] End-of-code marker received.
+[2025-11-03 19:19:36] Read user code, 5 lines.
+[2025-11-03 19:19:36] TraceFoxDebugger initialized.
+[2025-11-03 19:19:36] run_code() started (redirected stdout/stderr)
+[2025-11-03 19:19:36] User code compiled successfully.
+[2025-11-03 19:19:36] Emitted step line=2 (count=1)
+[2025-11-03 19:19:37] Received command: 'continue'
+[2025-11-03 19:19:37] self.run(compiled) returned (user code finished).
+[2025-11-03 19:19:37] Sent finished message to parent.
+[2025-11-03 19:19:37] Entering post-finish command wait loop.
+[2025-11-03 19:19:55] EOF or stdin closed after finish; exiting wait loop.
+[2025-11-03 19:23:20] Sent initial ready handshake to parent.
+[2025-11-03 19:23:20] === NEW DEBUGGER SESSION ===
+[2025-11-03 19:23:20] Session ID: 40f5ace1-efba-471c-8491-976850bb5ab6
+[2025-11-03 19:23:20] End-of-code marker received.
+[2025-11-03 19:23:20] Read user code, 5 lines.
+[2025-11-03 19:23:20] TraceFoxDebugger initialized.
+[2025-11-03 19:23:20] run_code() started (redirected stdout/stderr)
+[2025-11-03 19:23:20] User code compiled successfully.
+[2025-11-03 19:23:20] Emitted step line=2 (count=1)
+[2025-11-03 19:23:21] Received command: 'continue'
+[2025-11-03 19:23:21] self.run(compiled) returned (user code finished).
+[2025-11-03 19:23:21] Sent finished message to parent.
+[2025-11-03 19:23:21] Entering post-finish command wait loop.
+[2025-11-03 19:23:41] EOF or stdin closed after finish; exiting wait loop.
+[2025-11-03 21:24:18] Debugger ready handshake sent.
+[2025-11-03 21:24:18] Session ID received: 3a03009e-4f1c-472e-95f9-a5e695424444
+[2025-11-03 21:24:18] User code loaded (5 lines).
+[2025-11-03 21:24:18] TraceFoxDebugger initialized.
+[2025-11-03 21:24:18] Debugger run_code() started.
+[2025-11-03 21:24:18] Code compiled successfully.
+[2025-11-03 21:24:18] Emitted step at line=2
+[2025-11-03 21:24:20] Received command: step
+[2025-11-03 21:24:20] Emitted step at line=3
+[2025-11-03 21:24:22] Received command: step
+[2025-11-03 21:24:22] Emitted step at line=4
+[2025-11-03 21:24:24] Received command: step
+[2025-11-03 21:24:24] Execution finished normally.
+[2025-11-03 21:24:24] Sent final output to controller.
+[2025-11-03 21:28:11] Debugger ready handshake sent.
+[2025-11-03 21:28:11] Session ID received: f6fde3f3-e46e-49f9-9b4e-2acecdd6f40b
+[2025-11-03 21:28:11] User code loaded (5 lines).
+[2025-11-03 21:28:11] TraceFoxDebugger initialized.
+[2025-11-03 21:28:11] Debugger run_code() started.
+[2025-11-03 21:28:11] Code compiled successfully.
+[2025-11-03 21:28:11] Emitted step at line=2
+[2025-11-03 21:28:14] Received command: step
+[2025-11-03 21:28:14] Emitted step at line=3
+[2025-11-03 21:31:50] Post-run EOF; exiting.
+[2025-11-03 21:31:50] Restored stdout/stderr and ended run_code().
+[2025-11-03 21:31:50] Debugger session completed.
+[2025-11-03 21:31:50] No command received; exiting debugger.
+[2025-11-03 21:31:50] Execution finished normally.
+[2025-11-03 21:33:41] Debugger ready handshake sent.
+[2025-11-03 21:33:41] Session ID received: 8fa483f5-c8ef-429e-bde6-5b3b7afa0fbc
+[2025-11-03 21:33:41] User code loaded (5 lines).
+[2025-11-03 21:33:41] TraceFoxDebugger initialized.
+[2025-11-03 21:33:41] Debugger run_code() started.
+[2025-11-03 21:33:41] Code compiled successfully.
+[2025-11-03 21:33:41] Emitted step at line=2
+[2025-11-03 21:33:42] Received command: step
+[2025-11-03 21:33:42] Emitted step at line=3
+[2025-11-03 21:33:46] Received command: step
+[2025-11-03 21:33:46] Emitted step at line=4
+[2025-11-03 21:33:57] Received command: step
+[2025-11-03 21:33:57] Execution finished normally.
+[2025-11-03 21:33:57] Sent final output to controller.
+[2025-11-03 21:36:01] Post-run EOF; exiting.
+[2025-11-03 21:36:23] Debugger ready handshake sent.
+[2025-11-03 21:36:23] Session ID received: 30c5de66-c40c-4853-972f-99e8421569cd
+[2025-11-03 21:36:23] User code loaded (5 lines).
+[2025-11-03 21:36:23] TraceFoxDebugger initialized.
+[2025-11-03 21:36:23] Debugger run_code() started.
+[2025-11-03 21:36:23] Code compiled successfully.
+[2025-11-03 21:36:23] Emitted step at line=2
+[2025-11-03 21:36:23] Received command: step
+[2025-11-03 21:36:23] Emitted step at line=3
+[2025-11-03 21:36:27] Received command: step
+[2025-11-03 21:36:27] Emitted step at line=4
+[2025-11-03 21:36:29] Received command: step
+[2025-11-03 21:36:29] Execution finished normally.
+[2025-11-03 21:36:29] Sent final output to controller.
+[2025-11-03 21:36:52] Post-run EOF; exiting.
+[2025-11-03 21:36:52] Restored stdout/stderr and ended run_code().
+[2025-11-03 21:36:52] Debugger session completed.
+[2025-11-03 21:40:39] Debugger ready handshake sent.
+[2025-11-03 21:40:39] Session ID received: 71d6afa5-808b-4bda-aa71-85d40932b565
+[2025-11-03 21:40:39] User code loaded (5 lines).
+[2025-11-03 21:40:39] TraceFoxDebugger initialized.
+[2025-11-03 21:40:39] Debugger run_code() started.
+[2025-11-03 21:40:39] Code compiled successfully.
+[2025-11-03 21:40:39] Emitted step at line=2
+[2025-11-03 21:40:40] Received command: step
+[2025-11-03 21:40:40] Emitted step at line=3
+[2025-11-03 21:40:42] Received command: step
+[2025-11-03 21:40:42] Emitted step at line=4
+[2025-11-03 21:40:45] Received command: step
+[2025-11-03 21:40:45] Execution finished normally.
+[2025-11-03 21:40:45] Sent final output to controller.
+[2025-11-03 21:40:54] Debugger ready handshake sent.
+[2025-11-03 21:40:54] Session ID received: b6d4e04e-386b-437f-aa39-b212d6b9f3b4
+[2025-11-03 21:40:54] User code loaded (5 lines).
+[2025-11-03 21:40:54] TraceFoxDebugger initialized.
+[2025-11-03 21:40:54] Debugger run_code() started.
+[2025-11-03 21:40:54] Code compiled successfully.
+[2025-11-03 21:40:54] Emitted step at line=2
+[2025-11-03 21:40:55] Received command: step
+[2025-11-03 21:40:55] Emitted step at line=3
+[2025-11-03 21:40:56] No command received; exiting debugger.
+[2025-11-03 21:40:56] Execution finished normally.
+[2025-11-03 21:46:03] Debugger ready handshake sent.
+[2025-11-03 21:46:03] Session ID received: bf0e8528-2889-4125-b246-c0069953abe7
+[2025-11-03 21:46:03] User code loaded (5 lines).
+[2025-11-03 21:46:03] TraceFoxDebugger initialized.
+[2025-11-03 21:46:03] Debugger run_code() started.
+[2025-11-03 21:46:03] Code compiled successfully.
+[2025-11-03 21:46:03] Emitted step at line=2
+[2025-11-03 21:46:04] Received command: step
+[2025-11-03 21:46:04] Emitted step at line=3
+[2025-11-03 21:46:20] Received command: step
+[2025-11-03 21:46:20] Emitted step at line=4
+[2025-11-03 21:46:30] Received command: step
+[2025-11-03 21:46:30] Execution finished normally.
+[2025-11-03 21:46:30] Sent final output to controller.
+[2025-11-03 21:46:45] Debugger ready handshake sent.
+[2025-11-03 21:46:45] Session ID received: c9063b1f-b5d2-4660-b6cd-4dc3c8b2e8ce
+[2025-11-03 21:46:45] User code loaded (5 lines).
+[2025-11-03 21:46:45] TraceFoxDebugger initialized.
+[2025-11-03 21:46:45] Debugger run_code() started.
+[2025-11-03 21:46:45] Code compiled successfully.
+[2025-11-03 21:46:45] Emitted step at line=2
+[2025-11-03 21:46:47] Received command: step
+[2025-11-03 21:46:47] Emitted step at line=3
+[2025-11-03 21:46:54] Received command: step
+[2025-11-03 21:46:54] Emitted step at line=4
+[2025-11-03 21:46:55] Received command: continue
+[2025-11-03 21:46:55] Execution finished normally.
+[2025-11-03 21:46:55] Sent final output to controller.
+[2025-11-03 21:47:26] Debugger ready handshake sent.
+[2025-11-03 21:47:26] Session ID received: 297d7110-1723-4660-ba22-6ef89b6b8a66
+[2025-11-03 21:47:26] User code loaded (6 lines).
+[2025-11-03 21:47:26] TraceFoxDebugger initialized.
+[2025-11-03 21:47:26] Debugger run_code() started.
+[2025-11-03 21:47:26] Code compiled successfully.
+[2025-11-03 21:47:26] Emitted step at line=2
+[2025-11-03 21:47:27] Received command: step
+[2025-11-03 21:47:27] Emitted step at line=3
+[2025-11-03 21:47:30] Received command: step
+[2025-11-03 21:47:30] Emitted step at line=4
+[2025-11-03 21:47:32] Received command: step
+[2025-11-03 21:47:32] Emitted step at line=5
+[2025-11-03 21:47:42] Received command: step
+[2025-11-03 21:47:42] Execution finished normally.
+[2025-11-03 21:47:42] Sent final output to controller.
+[2025-11-03 21:47:56] Debugger ready handshake sent.
+[2025-11-03 21:47:56] Session ID received: 1397af74-a4b6-4894-935b-31366bdbc13f
+[2025-11-03 21:47:56] User code loaded (6 lines).
+[2025-11-03 21:47:56] TraceFoxDebugger initialized.
+[2025-11-03 21:47:56] Debugger run_code() started.
+[2025-11-03 21:47:56] Code compiled successfully.
+[2025-11-03 21:47:56] Emitted step at line=2
+[2025-11-03 21:47:57] Received command: step
+[2025-11-03 21:47:57] Emitted step at line=3
+[2025-11-03 21:47:58] Received command: step
+[2025-11-03 21:47:58] Emitted step at line=4
+[2025-11-03 21:47:59] Received command: step
+[2025-11-03 21:47:59] Emitted step at line=5
+[2025-11-03 21:48:00] Received command: step
+[2025-11-03 21:48:00] Execution finished normally.
+[2025-11-03 21:48:00] Sent final output to controller.
+[2025-11-03 21:48:13] Post-run EOF; exiting.
+[2025-11-03 21:48:13] Restored stdout/stderr and ended run_code().
+[2025-11-03 21:48:13] Debugger session completed.
+[2025-11-03 21:48:13] Post-run EOF; exiting.
+[========== NEW DEBUGGER SESSION ==========]
+[========== NEW DEBUGGER SESSION ==========]
+[Session ID received: ]
+[Session ID received: ]
+[2025-11-04 18:16:42] Debugger ready handshake sent.
+[2025-11-04 18:16:42] Session ID received: 94207690-578b-4cca-bafd-ea4f626ee8a3
+[2025-11-04 18:16:42] User code loaded (5 lines).
+[2025-11-04 18:16:42] TraceFoxDebugger initialized.
+[2025-11-04 18:16:42] Debugger run_code() started.
+[2025-11-04 18:16:42] Code compiled successfully.
+[2025-11-04 18:16:42] Emitted step at line=2
+[2025-11-04 18:16:43] Received command: step
+[2025-11-04 18:16:43] Emitted step at line=3
+[2025-11-04 18:16:44] Received command: step
+[2025-11-04 18:16:44] Emitted step at line=4
+[2025-11-04 18:16:44] Received command: step
+[2025-11-04 18:16:44] Execution finished normally.
+[2025-11-04 18:16:44] Sent final output to controller.
+[2025-11-04 18:17:24] Debugger ready handshake sent.
+[2025-11-04 18:17:24] Session ID received: 0f624e1d-f24e-4bc4-9af3-91f3682d74be
+[2025-11-04 18:17:24] User code loaded (5 lines).
+[2025-11-04 18:17:24] TraceFoxDebugger initialized.
+[2025-11-04 18:17:24] Debugger run_code() started.
+[2025-11-04 18:17:24] Code compiled successfully.
+[2025-11-04 18:17:24] Emitted step at line=2
+[2025-11-04 18:17:25] Received command: step
+[2025-11-04 18:17:25] Emitted step at line=3
+[2025-11-04 18:17:40] Received command: step
+[2025-11-04 18:17:40] Emitted step at line=4
+[2025-11-04 18:18:00] Received command: step
+[2025-11-04 18:18:00] Emitted step at line=5
+[2025-11-04 18:18:03] Received command: step
+[2025-11-04 18:18:03] Execution finished normally.
+[2025-11-04 18:18:03] Sent final output to controller.
+[2025-11-04 18:18:36] Debugger ready handshake sent.
+[2025-11-04 18:18:36] Session ID received: 522fbf1b-94f7-499f-87c7-362e87b1f893
+[2025-11-04 18:18:36] User code loaded (6 lines).
+[2025-11-04 18:18:36] TraceFoxDebugger initialized.
+[2025-11-04 18:18:36] Debugger run_code() started.
+[2025-11-04 18:18:36] Code compiled successfully.
+[2025-11-04 18:18:36] Emitted step at line=2
+[2025-11-04 18:18:37] Received command: step
+[2025-11-04 18:18:37] Emitted step at line=3
+[2025-11-04 18:18:37] Received command: step
+[2025-11-04 18:18:37] Emitted step at line=4
+[2025-11-04 18:18:38] Received command: step
+[2025-11-04 18:18:38] Emitted step at line=5
+[2025-11-04 18:18:38] Received command: step
+[2025-11-04 18:18:38] Execution finished normally.
+[2025-11-04 18:18:38] Sent final output to controller.
+[2025-11-04 18:18:51] Debugger ready handshake sent.
+[2025-11-04 18:18:51] Session ID received: c9285648-24d0-4f8e-8298-20e28edaa333
+[2025-11-04 18:18:51] User code loaded (7 lines).
+[2025-11-04 18:18:51] TraceFoxDebugger initialized.
+[2025-11-04 18:18:51] Debugger run_code() started.
+[2025-11-04 18:18:51] Code compiled successfully.
+[2025-11-04 18:18:51] Emitted step at line=2
+[2025-11-04 18:18:53] Received command: step
+[2025-11-04 18:18:53] Emitted step at line=3
+[2025-11-04 18:18:56] Received command: step
+[2025-11-04 18:18:56] Emitted step at line=4
+[2025-11-04 18:18:56] Received command: step
+[2025-11-04 18:18:56] Emitted step at line=5
+[2025-11-04 18:18:58] Received command: step
+[2025-11-04 18:18:58] Execution finished normally.
+[2025-11-04 18:18:58] Sent final output to controller.
+[2025-11-04 18:19:24] Post-run EOF; exiting.
+[2025-11-04 18:19:24] Restored stdout/stderr and ended run_code().
+[2025-11-04 18:19:24] Debugger session completed.
+[2025-11-04 18:19:24] Post-run EOF; exiting.
+[2025-11-04 18:19:24] Post-run EOF; exiting.
+[2025-11-04 18:20:23] Handshake 'ready' sent.
+[2025-11-04 18:20:23] Session ID: fe14df17-4a4f-4459-92f2-81ccc1f41f55
+[2025-11-04 18:20:23] END_OF_CODE marker found.
+[2025-11-04 18:20:23] Received code lines: 5
+[2025-11-04 18:20:23] TraceFoxDebugger initialized.
+[2025-11-04 18:20:23] run_code started.
+[2025-11-04 18:20:23] SyntaxError emitted.
+[2025-11-04 18:20:23] Final step emitted.
+[2025-11-04 18:20:23] run_code finished and stdout/stderr restored.
+[2025-11-04 18:20:23] Debugger run completed.
+[2025-11-04 18:20:34] Handshake 'ready' sent.
+[2025-11-04 18:20:34] Session ID: 86465b35-3383-417f-965d-2198258f56db
+[2025-11-04 18:20:34] END_OF_CODE marker found.
+[2025-11-04 18:20:34] Received code lines: 5
+[2025-11-04 18:20:34] TraceFoxDebugger initialized.
+[2025-11-04 18:20:34] run_code started.
+[2025-11-04 18:20:34] Code compiled.
+[2025-11-04 18:20:34] Emitted step line=2 vars_count=6
+[2025-11-04 18:20:35] Command received: step
+[2025-11-04 18:20:35] Emitted step line=3 vars_count=7
+[2025-11-04 18:20:37] Command received: step
+[2025-11-04 18:20:37] Emitted step line=4 vars_count=8
+[2025-11-04 18:20:38] Command received: step
+[2025-11-04 18:20:38] Emitted step line=5 vars_count=8
+[2025-11-04 18:20:39] Command received: step
+[2025-11-04 18:20:39] Execution finished normally.
+[2025-11-04 18:20:39] Final step emitted.
+[2025-11-04 18:20:39] run_code finished and stdout/stderr restored.
+[2025-11-04 18:20:39] Debugger run completed.
+[2025-11-04 18:22:41] Debugger ready handshake sent.
+[2025-11-04 18:22:41] Session ID received: 8d6dad6b-bdd6-40c3-be7e-9054af89bec5
+[2025-11-04 18:22:41] User code loaded (5 lines).
+[2025-11-04 18:22:41] TraceFoxDebugger initialized.
+[2025-11-04 18:22:41] Debugger run_code() started.
+[2025-11-04 18:22:41] Code compiled successfully.
+[2025-11-04 18:22:41] Emitted step at line=2
+[2025-11-04 18:22:41] Received command: step
+[2025-11-04 18:22:41] Emitted step at line=3
+[2025-11-04 18:22:42] Received command: step
+[2025-11-04 18:22:42] Emitted step at line=4
+[2025-11-04 18:22:42] Received command: step
+[2025-11-04 18:22:42] Execution finished normally.
+[2025-11-04 18:22:42] Sent final output to controller.
+[2025-11-04 18:22:45] Post-run EOF; exiting.
+[2025-11-04 18:22:45] Restored stdout/stderr and ended run_code().
+[2025-11-04 18:22:45] Debugger session completed.
+[2025-11-04 18:30:29] Debugger ready handshake sent.
+[2025-11-04 18:30:29] Session ID received: e3122177-bf2d-4091-9e5c-2b8b5ce570bc
+[2025-11-04 18:30:29] User code loaded (5 lines).
+[2025-11-04 18:30:29] TraceFoxDebugger initialized.
+[2025-11-04 18:30:29] Debugger run_code() started.
+[2025-11-04 18:30:29] Code compiled successfully.
+[2025-11-04 18:30:29] Emitted step at line=2
+[2025-11-04 18:30:30] Received command: continue
+[2025-11-04 18:30:30] Execution finished normally.
+[2025-11-04 18:30:30] Sent final output to controller.
+[2025-11-04 18:30:38] Debugger ready handshake sent.
+[2025-11-04 18:30:38] Session ID received: 80465804-2f9d-43d0-9951-47008e8cf170
+[2025-11-04 18:30:38] User code loaded (5 lines).
+[2025-11-04 18:30:38] TraceFoxDebugger initialized.
+[2025-11-04 18:30:38] Debugger run_code() started.
+[2025-11-04 18:30:38] Code compiled successfully.
+[2025-11-04 18:30:38] Emitted step at line=2
+[2025-11-04 18:30:39] Received command: continue
+[2025-11-04 18:30:39] Execution finished normally.
+[2025-11-04 18:30:39] Sent final output to controller.
+[2025-11-04 18:31:03] Post-run EOF; exiting.
+[2025-11-04 18:31:03] Restored stdout/stderr and ended run_code().
+[2025-11-04 18:31:03] Debugger session completed.
+[2025-11-04 18:31:03] Post-run EOF; exiting.
+[2025-11-04 18:35:28] Debugger ready handshake sent.
+[2025-11-04 18:35:28] Session ID received: ea06de98-f4d0-4fed-a48b-ef0619c47b04
+[2025-11-04 18:35:28] User code loaded (5 lines).
+[2025-11-04 18:35:28] TraceFoxDebugger initialized.
+[2025-11-04 18:35:28] Debugger run_code() started.
+[2025-11-04 18:35:28] Code compiled successfully.
+[2025-11-04 18:35:28] Emitted step at line=2
+[2025-11-04 18:35:36] No command received; exiting debugger.
+[2025-11-04 18:35:36] Execution finished normally.
+[2025-11-04 18:35:59] Debugger ready handshake sent.
+[2025-11-04 18:35:59] Session ID received: 6e0a65bc-898a-45c4-9fcd-47e4025f76e5
+[2025-11-04 18:35:59] User code loaded (5 lines).
+[2025-11-04 18:35:59] TraceFoxDebugger initialized.
+[2025-11-04 18:35:59] Debugger run_code() started.
+[2025-11-04 18:35:59] Code compiled successfully.
+[2025-11-04 18:35:59] Emitted step at line=2
+[2025-11-04 18:36:01] No command received; exiting debugger.
+[2025-11-04 18:36:01] Execution finished normally.
+[2025-11-04 18:36:51] Debugger ready handshake sent.
+[2025-11-04 18:36:51] Session ID received: 9e3dc91b-b263-4ba0-92e2-98a026837ade
+[2025-11-04 18:36:51] User code loaded (5 lines).
+[2025-11-04 18:36:51] TraceFoxDebugger initialized.
+[2025-11-04 18:36:51] Debugger run_code() started.
+[2025-11-04 18:36:51] Code compiled successfully.
+[2025-11-04 18:36:51] Emitted step at line=2
+[2025-11-04 18:37:06] Debugger ready handshake sent.
+[2025-11-04 18:37:06] Session ID received: c918429a-d16a-4278-930c-62e2460b12a7
+[2025-11-04 18:37:06] User code loaded (5 lines).
+[2025-11-04 18:37:06] TraceFoxDebugger initialized.
+[2025-11-04 18:37:06] Debugger run_code() started.
+[2025-11-04 18:37:06] Code compiled successfully.
+[2025-11-04 18:37:06] Emitted step at line=2
+[2025-11-04 18:37:08] No command received; exiting debugger.
+[2025-11-04 18:37:08] No command received; exiting debugger.
+[2025-11-04 18:37:08] Execution finished normally.
+[2025-11-04 18:37:08] Execution finished normally.
+[2025-11-04 18:37:26] Debugger ready handshake sent.
+[2025-11-04 18:37:26] Session ID received: 8449431c-d23a-469e-8691-ebe71c914a3d
+[2025-11-04 18:37:26] User code loaded (5 lines).
+[2025-11-04 18:37:26] TraceFoxDebugger initialized.
+[2025-11-04 18:37:26] Debugger run_code() started.
+[2025-11-04 18:37:26] Code compiled successfully.
+[2025-11-04 18:37:26] Emitted step at line=2
+[2025-11-04 18:37:42] No command received; exiting debugger.
+[2025-11-04 18:37:42] Execution finished normally.
+[2025-11-04 18:37:42] Restored stdout/stderr and ended run_code().
+[2025-11-04 19:26:30] Debugger ready handshake sent.
+[2025-11-04 19:26:30] Session ID received: 3906d15d-e264-44e5-b393-1a2b9fad2480
+[2025-11-04 19:26:30] User code loaded (5 lines).
+[2025-11-04 19:26:30] TraceFoxDebugger initialized.
+[2025-11-04 19:26:30] Debugger run_code() started.
+[2025-11-04 19:26:30] Code compiled successfully.
+[2025-11-04 19:26:30] Emitted step at line=2
+[2025-11-04 19:26:31] Received command: step
+[2025-11-04 19:26:31] Emitted step at line=3
+[2025-11-04 19:26:32] Received command: step
+[2025-11-04 19:26:32] Emitted step at line=4
+[2025-11-04 19:26:47] No command received; exiting debugger.
+[2025-11-04 19:26:47] Execution finished normally.
+[2025-11-04 19:28:17] Debugger ready handshake sent.
+[2025-11-04 19:28:17] Session ID received: 1b8eced5-82ca-4735-9583-986cef6f04df
+[2025-11-04 19:28:17] User code loaded (5 lines).
+[2025-11-04 19:28:17] TraceFoxDebugger initialized.
+[2025-11-04 19:28:17] Debugger run_code() started.
+[2025-11-04 19:28:17] Code compiled successfully.
+[2025-11-04 19:28:17] Emitted step at line=2
+[2025-11-04 19:28:18] Received command: step
+[2025-11-04 19:28:18] Emitted step at line=3
+[2025-11-04 19:28:22] Received command: step
+[2025-11-04 19:28:22] Emitted step at line=4
+[2025-11-04 19:28:28] Received command: step
+[2025-11-04 19:28:28] Execution finished normally.
+[2025-11-04 19:28:28] Sent final output to controller.
+[2025-11-04 19:28:35] Post-run EOF; exiting.
+[2025-11-04 19:28:35] Restored stdout/stderr and ended run_code().
+[2025-11-04 19:28:35] Debugger session completed.
+[2025-11-04 19:29:00] Debugger ready handshake sent.
+[2025-11-04 19:29:00] Session ID received: d94199a7-d24f-4922-aa6d-5ec026edbaad
+[2025-11-04 19:29:00] User code loaded (5 lines).
+[2025-11-04 19:29:00] TraceFoxDebugger initialized.
+[2025-11-04 19:29:00] Debugger run_code() started.
+[2025-11-04 19:29:00] Code compiled successfully.
+[2025-11-04 19:29:00] Emitted step at line=2
+[2025-11-04 19:29:05] Received command: step
+[2025-11-04 19:29:05] Emitted step at line=3
+[2025-11-04 19:29:19] No command received; exiting debugger.
+[2025-11-04 19:29:19] Execution finished normally.
+[2025-11-04 19:30:29] Debugger ready handshake sent.
+[2025-11-04 19:30:29] Session ID received: 1fcc1641-162e-4bee-860b-8a6afe6180a9
+[2025-11-04 19:30:29] User code loaded (5 lines).
+[2025-11-04 19:30:29] TraceFoxDebugger initialized.
+[2025-11-04 19:30:29] Debugger run_code() started.
+[2025-11-04 19:30:29] Code compiled successfully.
+[2025-11-04 19:30:29] Emitted step at line=2
+[2025-11-04 19:30:30] Received command: step
+[2025-11-04 19:30:30] Emitted step at line=3
+[2025-11-04 19:30:31] Received command: step
+[2025-11-04 19:30:31] Emitted step at line=4
+[2025-11-04 19:30:42] Received command: step
+[2025-11-04 19:30:42] Execution finished normally.
+[2025-11-04 19:30:42] Sent final output to controller.
+[2025-11-04 19:30:49] Post-run EOF; exiting.
+[2025-11-04 19:33:43] Debugger ready handshake sent.
+[2025-11-04 19:33:43] Session ID received: 2153cdd7-278c-45dc-a1f0-90d8f7dcb417
+[2025-11-04 19:33:43] User code loaded (5 lines).
+[2025-11-04 19:33:43] TraceFoxDebugger initialized.
+[2025-11-04 19:33:43] Debugger run_code() started.
+[2025-11-04 19:33:43] Code compiled successfully.
+[2025-11-04 19:33:43] Emitted step at line=2
+[2025-11-04 19:33:44] Received command: step
+[2025-11-04 19:33:44] Emitted step at line=3
+[2025-11-04 19:33:46] Received command: step
+[2025-11-04 19:33:46] Emitted step at line=4
+[2025-11-04 19:35:45] No command received; exiting debugger.
+[2025-11-04 19:35:45] Execution finished normally.
+[2025-11-04 19:36:24] Debugger ready handshake sent.
+[2025-11-04 19:36:24] Session ID received: aab98118-8e3d-4078-8d39-f8cff26cdaae
+[2025-11-04 19:36:24] User code loaded (5 lines).
+[2025-11-04 19:36:24] TraceFoxDebugger initialized.
+[2025-11-04 19:36:24] Debugger run_code() started.
+[2025-11-04 19:36:24] Code compiled successfully.
+[2025-11-04 19:36:24] Emitted step at line=2
+[2025-11-04 19:36:24] Received command: step
+[2025-11-04 19:36:24] Emitted step at line=3
+[2025-11-04 19:36:26] Received command: step
+[2025-11-04 19:36:26] Emitted step at line=4
+[2025-11-04 19:36:29] Received command: step
+[2025-11-04 19:36:29] Execution finished normally.
+[2025-11-04 19:36:29] Sent final output to controller.
+[2025-11-04 19:36:33] Debugger ready handshake sent.
+[2025-11-04 19:36:33] Session ID received: 3958dca2-576b-40c3-b2ef-15598ebe0239
+[2025-11-04 19:36:33] User code loaded (5 lines).
+[2025-11-04 19:36:33] TraceFoxDebugger initialized.
+[2025-11-04 19:36:33] Debugger run_code() started.
+[2025-11-04 19:36:33] Code compiled successfully.
+[2025-11-04 19:36:33] Emitted step at line=2
+[2025-11-04 19:36:33] Received command: step
+[2025-11-04 19:36:33] Emitted step at line=3
+[2025-11-04 19:36:37] Post-run EOF; exiting.
+[2025-11-04 19:36:37] Restored stdout/stderr and ended run_code().
+[2025-11-04 19:36:37] Debugger session completed.
+[2025-11-04 19:36:37] No command received; exiting debugger.
+[2025-11-04 19:36:37] Execution finished normally.
+[2025-11-04 19:47:41] Debugger ready handshake sent.
+[2025-11-04 19:47:41] Session ID received: 8912dab2-0cdf-4260-81d0-a290a8ad52bf
+[2025-11-04 19:47:41] User code loaded (5 lines).
+[2025-11-04 19:47:41] TraceFoxDebugger initialized.
+[2025-11-04 19:47:41] Debugger run_code() started.
+[2025-11-04 19:47:41] Code compiled successfully.
+[2025-11-04 19:47:41] Emitted step at line=2
+[2025-11-04 19:47:42] Received command: step
+[2025-11-04 19:47:42] Emitted step at line=3
+[2025-11-04 19:47:44] Received command: step
+[2025-11-04 19:47:44] Emitted step at line=4
+[2025-11-04 19:47:57] Received command: step
+[2025-11-04 19:47:57] Execution finished normally.
+[2025-11-04 19:47:57] Sent final output to controller.
+[2025-11-04 19:48:03] Debugger ready handshake sent.
+[2025-11-04 19:48:03] Session ID received: 57b938b2-b5b7-4933-9669-c0fd89d60981
+[2025-11-04 19:48:03] User code loaded (5 lines).
+[2025-11-04 19:48:03] TraceFoxDebugger initialized.
+[2025-11-04 19:48:03] Debugger run_code() started.
+[2025-11-04 19:48:03] Code compiled successfully.
+[2025-11-04 19:48:03] Emitted step at line=2
+[2025-11-04 19:48:05] Received command: step
+[2025-11-04 19:48:05] Emitted step at line=3
+[2025-11-04 19:49:08] Post-run EOF; exiting.
+[2025-11-04 19:49:08] Restored stdout/stderr and ended run_code().
+[2025-11-04 19:49:08] Debugger session completed.
+[2025-11-04 19:49:08] No command received; exiting debugger.
+[2025-11-04 19:49:08] Execution finished normally.
+[2025-11-04 19:49:13] Debugger ready handshake sent.
+[2025-11-04 19:49:13] Session ID received: bac28765-1fa0-473c-a055-226681a5c7ea
+[2025-11-04 19:49:13] User code loaded (5 lines).
+[2025-11-04 19:49:13] TraceFoxDebugger initialized.
+[2025-11-04 19:49:13] Debugger run_code() started.
+[2025-11-04 19:49:13] Code compiled successfully.
+[2025-11-04 19:49:13] Emitted step at line=2
+[2025-11-04 19:49:14] Received command: step
+[2025-11-04 19:49:14] Emitted step at line=3
+[2025-11-04 19:49:14] Received command: step
+[2025-11-04 19:49:14] Emitted step at line=4
+[2025-11-04 19:49:15] No command received; exiting debugger.
+[2025-11-04 19:49:15] Execution finished normally.
+[2025-11-04 19:49:15] Restored stdout/stderr and ended run_code().
+[2025-11-04 19:49:53] Debugger ready handshake sent.
+[2025-11-04 19:49:53] Session ID received: 756af9d3-6726-4453-b7cd-de3aed73d816
+[2025-11-04 19:49:53] User code loaded (5 lines).
+[2025-11-04 19:49:53] TraceFoxDebugger initialized.
+[2025-11-04 19:49:53] Debugger run_code() started.
+[2025-11-04 19:49:53] Code compiled successfully.
+[2025-11-04 19:49:53] Emitted step at line=2
+[2025-11-04 19:49:53] Received command: step
+[2025-11-04 19:49:53] Emitted step at line=3
+[2025-11-04 19:50:45] No command received; exiting debugger.
+[2025-11-04 19:50:45] Execution finished normally.
+[2025-11-04 19:51:41] Debugger ready handshake sent.
+[2025-11-04 19:51:41] Session ID received: f21d5196-e541-4275-a9f3-2091977b6e60
+[2025-11-04 19:51:41] User code loaded (5 lines).
+[2025-11-04 19:51:41] TraceFoxDebugger initialized.
+[2025-11-04 19:51:41] Debugger run_code() started.
+[2025-11-04 19:51:41] Code compiled successfully.
+[2025-11-04 19:51:41] Emitted step at line=2
+[2025-11-04 19:51:42] Received command: step
+[2025-11-04 19:51:42] Emitted step at line=3
+[2025-11-04 19:51:55] Debugger ready handshake sent.
+[2025-11-04 19:51:55] Session ID received: 26d1c0b9-05d0-4f5a-ba79-cfa94766e239
+[2025-11-04 19:51:55] User code loaded (5 lines).
+[2025-11-04 19:51:55] TraceFoxDebugger initialized.
+[2025-11-04 19:51:55] Debugger run_code() started.
+[2025-11-04 19:51:55] Code compiled successfully.
+[2025-11-04 19:51:55] Emitted step at line=2
+[2025-11-04 19:51:55] Received command: step
+[2025-11-04 19:51:55] Emitted step at line=3
+[2025-11-04 19:53:31] No command received; exiting debugger.
+[2025-11-04 19:53:31] Execution finished normally.
+[2025-11-04 19:53:31] Execution finished normally.
+[2025-11-04 19:53:31] Restored stdout/stderr and ended run_code().
+[2025-11-04 19:53:37] Debugger ready handshake sent.
+[2025-11-04 19:53:37] Session ID received: 9c1d55ae-784f-4fcd-9a79-7f1f09a0c942
+[2025-11-04 19:53:37] User code loaded (5 lines).
+[2025-11-04 19:53:37] TraceFoxDebugger initialized.
+[2025-11-04 19:53:37] Debugger run_code() started.
+[2025-11-04 19:53:37] Code compiled successfully.
+[2025-11-04 19:53:37] Emitted step at line=2
+[2025-11-04 19:53:38] Received command: step
+[2025-11-04 19:53:38] Emitted step at line=3
+[2025-11-04 19:53:46] Debugger ready handshake sent.
+[2025-11-04 19:53:46] Session ID received: c35cb65a-194e-4d4d-9e7c-9ea7e9bce86e
+[2025-11-04 19:53:46] User code loaded (5 lines).
+[2025-11-04 19:53:46] TraceFoxDebugger initialized.
+[2025-11-04 19:53:46] Debugger run_code() started.
+[2025-11-04 19:53:46] Code compiled successfully.
+[2025-11-04 19:53:46] Emitted step at line=2
+[2025-11-04 19:53:46] Received command: step
+[2025-11-04 19:53:46] Emitted step at line=3
+[2025-11-04 19:54:00] No command received; exiting debugger.
+[2025-11-04 19:54:00] Execution finished normally.
+[2025-11-04 19:54:00] Restored stdout/stderr and ended run_code().
+[2025-11-04 19:54:00] No command received; exiting debugger.
+[2025-11-04 19:54:00] Execution finished normally.
+[2025-11-04 19:55:09] Debugger ready handshake sent.
+[2025-11-04 19:55:09] Session ID received: aacece65-a8a1-43fc-b719-f7ce7902dc31
+[2025-11-04 19:55:09] User code loaded (5 lines).
+[2025-11-04 19:55:09] TraceFoxDebugger initialized.
+[2025-11-04 19:55:09] Debugger run_code() started.
+[2025-11-04 19:55:09] Code compiled successfully.
+[2025-11-04 19:55:09] Emitted step at line=2
+[2025-11-04 19:55:10] Received command: step
+[2025-11-04 19:55:10] Emitted step at line=3
+[2025-11-04 19:55:10] Received command: step
+[2025-11-04 19:55:10] Emitted step at line=4
+[2025-11-04 19:55:12] No command received; exiting debugger.
+[2025-11-04 19:55:12] Execution finished normally.
+[2025-11-04 19:57:31] Debugger ready handshake sent.
+[2025-11-04 19:57:31] Session ID received: ca23c6ba-5009-4fd2-96bb-5be5129c5c6c
+[2025-11-04 19:57:31] User code loaded (5 lines).
+[2025-11-04 19:57:31] TraceFoxDebugger initialized.
+[2025-11-04 19:57:31] Debugger run_code() started.
+[2025-11-04 19:57:31] Code compiled successfully.
+[2025-11-04 19:57:31] Emitted step at line=2
+[2025-11-04 19:57:32] Received command: step
+[2025-11-04 19:57:32] Emitted step at line=3
+[2025-11-04 19:57:32] Received command: step
+[2025-11-04 19:57:32] Emitted step at line=4
+[2025-11-04 19:57:35] No command received; exiting debugger.
+[2025-11-04 19:57:35] Execution finished normally.
+[2025-11-04 19:57:35] Restored stdout/stderr and ended run_code().
+[2025-11-04 20:03:03] Debugger ready handshake sent.
+[2025-11-04 20:03:03] Session ID received: 8e767ec3-dbb9-4a71-a21d-8c1652f23267
+[2025-11-04 20:03:03] User code loaded (5 lines).
+[2025-11-04 20:03:03] TraceFoxDebugger initialized.
+[2025-11-04 20:03:03] Debugger run_code() started.
+[2025-11-04 20:03:03] Code compiled successfully.
+[2025-11-04 20:03:03] Emitted step at line=2
+[2025-11-04 20:03:06] Received command: step
+[2025-11-04 20:03:06] Emitted step at line=3
+[2025-11-04 20:03:07] Received command: step
+[2025-11-04 20:03:07] Emitted step at line=4
+[2025-11-04 20:03:09] Received command: step
+[2025-11-04 20:03:09] Execution finished normally.
+[2025-11-04 20:03:09] Sent final output to controller.
+[2025-11-04 20:03:17] Debugger ready handshake sent.
+[2025-11-04 20:03:17] Session ID received: 012cd3b2-87f7-489b-8959-98b98ea6869f
+[2025-11-04 20:03:17] User code loaded (5 lines).
+[2025-11-04 20:03:17] TraceFoxDebugger initialized.
+[2025-11-04 20:03:17] Debugger run_code() started.
+[2025-11-04 20:03:17] Code compiled successfully.
+[2025-11-04 20:03:17] Emitted step at line=2
+[2025-11-04 20:03:18] Received command: step
+[2025-11-04 20:03:18] Emitted step at line=3
+[2025-11-04 20:03:19] Received command: step
+[2025-11-04 20:03:19] Emitted step at line=4
+[2025-11-04 20:03:20] Received command: step
+[2025-11-04 20:03:20] Execution finished normally.
+[2025-11-04 20:03:20] Sent final output to controller.
+[2025-11-04 20:03:21] Post-run EOF; exiting.
+[2025-11-04 20:03:21] Restored stdout/stderr and ended run_code().
+[2025-11-04 20:03:21] Debugger session completed.
+[2025-11-04 20:03:21] Post-run EOF; exiting.
+[2025-11-04 20:07:23] Debugger ready handshake sent.
+[2025-11-04 20:07:23] Session ID received: 88ac3732-a5e1-43a4-8298-93475a305523
+[2025-11-04 20:07:23] User code loaded (6 lines).
+[2025-11-04 20:07:23] TraceFoxDebugger initialized.
+[2025-11-04 20:07:23] Debugger run_code() started.
+[2025-11-04 20:07:23] Code compiled successfully.
+[2025-11-04 20:07:23] Emitted step at line=2
+[2025-11-04 20:07:25] Received command: step
+[2025-11-04 20:07:25] Emitted step at line=3
+[2025-11-04 20:07:27] Received command: step
+[2025-11-04 20:07:27] Emitted step at line=4
+[2025-11-04 20:07:28] Received command: step
+[2025-11-04 20:07:28] Emitted step at line=5
+[2025-11-04 20:07:30] Received command: continue
+[2025-11-04 20:07:30] Runtime exception: Traceback (most recent call last):
+  File "C:\Users\Shrey\source\repos\TraceFox - Debugger\TraceFox - Debugger\TraceFoxPython\debugger.py", line 126, in run_code
+    self.run(compiled)
+    ~~~~~~~~^^^^^^^^^^
+  File "C:\Users\Shrey\AppData\Local\Programs\Python\Python314\Lib\bdb.py", line 899, in run
+    exec(cmd, globals, locals)
+    ~~~~^^^^^^^^^^^^^^^^^^^^^^
+  File "<string>", line 6, in <module>
+NameError: name 'dfdf' is not defined
+
+[2025-11-04 20:07:30] Restored stdout/stderr and ended run_code().
+[2025-11-04 20:07:30] Debugger session completed.
+[2025-11-04 20:07:37] Debugger ready handshake sent.
+[2025-11-04 20:07:37] Session ID received: e1fefccc-e11c-48d8-9974-9401b90a62cc
+[2025-11-04 20:07:37] User code loaded (6 lines).
+[2025-11-04 20:07:37] TraceFoxDebugger initialized.
+[2025-11-04 20:07:37] Debugger run_code() started.
+[2025-11-04 20:07:37] Code compiled successfully.
+[2025-11-04 20:07:37] Emitted step at line=2
+[2025-11-04 20:07:40] Received command: step
+[2025-11-04 20:07:40] Emitted step at line=3
+[2025-11-04 20:07:47] Debugger ready handshake sent.
+[2025-11-04 20:07:47] Session ID received: 509a0f1a-7e23-448d-967c-6849f7e42c0d
+[2025-11-04 20:07:47] User code loaded (6 lines).
+[2025-11-04 20:07:47] TraceFoxDebugger initialized.
+[2025-11-04 20:07:47] Debugger run_code() started.
+[2025-11-04 20:07:47] Code compiled successfully.
+[2025-11-04 20:07:47] Emitted step at line=2
+[2025-11-04 20:07:48] Received command: step
+[2025-11-04 20:07:48] Emitted step at line=3
+[2025-11-04 20:07:57] Debugger ready handshake sent.
+[2025-11-04 20:07:57] Session ID received: aca6cdae-49c4-4004-ae6b-6eeb12b89c5e
+[2025-11-04 20:07:57] User code loaded (5 lines).
+[2025-11-04 20:07:57] TraceFoxDebugger initialized.
+[2025-11-04 20:07:57] Debugger run_code() started.
+[2025-11-04 20:07:57] Code compiled successfully.
+[2025-11-04 20:07:57] Emitted step at line=1
+[2025-11-04 20:07:59] Received command: step
+[2025-11-04 20:07:59] Emitted step at line=2
+[2025-11-04 20:08:20] Received command: step
+[2025-11-04 20:08:20] Emitted step at line=3
+[2025-11-04 20:08:22] Received command: step
+[2025-11-04 20:08:22] Emitted step at line=4
+[2025-11-04 20:08:25] Received command: step
+[2025-11-04 20:08:25] Execution finished normally.
+[2025-11-04 20:08:25] Sent final output to controller.
+[2025-11-04 20:08:44] No command received; exiting debugger.
+[2025-11-04 20:08:44] No command received; exiting debugger.
+[2025-11-04 20:08:44] Restored stdout/stderr and ended run_code().
+[2025-11-04 20:08:44] Execution finished normally.
+[2025-11-04 20:08:44] Debugger session completed.
+[2025-11-04 20:08:44] Execution finished normally.
+[2025-11-04 21:42:18] Debugger ready handshake sent.
+[2025-11-04 21:42:18] Session ID received: 972c4a62-e111-4516-8b5c-e4565fa7412a
+[2025-11-04 21:42:18] User code loaded (6 lines).
+[2025-11-04 21:42:18] TraceFoxDebugger initialized.
+[2025-11-04 21:42:18] Debugger run_code() started.
+[2025-11-04 21:42:18] Code compiled successfully.
+[2025-11-04 21:42:18] Emitted step at line=2
+[2025-11-04 21:42:19] Received command: step
+[2025-11-04 21:42:19] Emitted step at line=3
+[2025-11-04 21:42:19] Received command: step
+[2025-11-04 21:42:19] Emitted step at line=4
+[2025-11-04 21:42:19] Received command: step
+[2025-11-04 21:42:19] Emitted step at line=5
+[2025-11-04 21:42:20] Received command: step
+[2025-11-04 21:42:20] Execution finished normally.
+[2025-11-04 21:42:20] Sent final output to controller.
+[2025-11-04 21:48:07] Post-run EOF; exiting.
+[2025-11-04 21:48:13] Debugger ready handshake sent.
+[2025-11-04 21:48:13] Session ID received: e1468b6c-d7fd-4152-8bae-93803e5f8c68
+[2025-11-04 21:48:13] User code loaded (6 lines).
+[2025-11-04 21:48:13] TraceFoxDebugger initialized.
+[2025-11-04 21:48:13] Debugger run_code() started.
+[2025-11-04 21:48:13] Code compiled successfully.
+[2025-11-04 21:48:13] Emitted step at line=2
+[2025-11-04 21:48:14] Received command: step
+[2025-11-04 21:48:14] Emitted step at line=3
+[2025-11-04 21:48:17] Received command: continue
+[2025-11-04 21:48:17] Execution finished normally.
+[2025-11-04 21:48:17] Sent final output to controller.
+[2025-11-04 21:48:37] Debugger ready handshake sent.
+[2025-11-04 21:48:37] Session ID received: 945ff2f9-0ca3-43bb-a151-a3637c7c7b2e
+[2025-11-04 21:48:37] User code loaded (6 lines).
+[2025-11-04 21:48:37] TraceFoxDebugger initialized.
+[2025-11-04 21:48:37] Debugger run_code() started.
+[2025-11-04 21:48:37] Code compiled successfully.
+[2025-11-04 21:48:37] Emitted step at line=2
+[2025-11-04 21:48:37] Received command: step
+[2025-11-04 21:48:37] Emitted step at line=3
+[2025-11-04 21:48:38] Received command: continue
+[2025-11-04 21:48:38] Execution finished normally.
+[2025-11-04 21:48:38] Sent final output to controller.
+[2025-11-04 21:50:47] Debugger ready handshake sent.
+[2025-11-04 21:50:47] Session ID received: 52a6b860-6074-4fdc-b2ca-a07d3c69e56a
+[2025-11-04 21:50:47] User code loaded (6 lines).
+[2025-11-04 21:50:47] TraceFoxDebugger initialized.
+[2025-11-04 21:50:47] Debugger run_code() started.
+[2025-11-04 21:50:47] Code compiled successfully.
+[2025-11-04 21:50:47] Emitted step at line=2
+[2025-11-04 21:50:48] Received command: continue
+[2025-11-04 21:50:48] Execution finished normally.
+[2025-11-04 21:50:48] Sent final output to controller.
+[2025-11-04 21:50:53] Post-run EOF; exiting.
+[2025-11-04 21:50:53] Restored stdout/stderr and ended run_code().
+[2025-11-04 21:50:53] Restored stdout/stderr and ended run_code().
+[2025-11-04 21:50:53] Debugger session completed.
+[2025-11-04 21:50:53] Debugger session completed.
+[2025-11-04 21:50:53] Post-run EOF; exiting.
+[2025-11-04 21:51:26] Debugger ready handshake sent.
+[2025-11-04 21:51:26] Session ID received: 4a6aa521-309d-453b-9f6a-5296267234be
+[2025-11-04 21:51:26] User code loaded (6 lines).
+[2025-11-04 21:51:26] TraceFoxDebugger initialized.
+[2025-11-04 21:51:26] Debugger run_code() started.
+[2025-11-04 21:51:26] Code compiled successfully.
+[2025-11-04 21:51:26] Emitted step at line=2
+[2025-11-04 21:51:28] Received command: step
+[2025-11-04 21:51:28] Emitted step at line=3
+[2025-11-04 21:51:29] Received command: step
+[2025-11-04 21:51:29] Emitted step at line=4
+[2025-11-04 21:51:30] Received command: step
+[2025-11-04 21:51:30] Emitted step at line=5
+[2025-11-04 21:51:30] Received command: step
+[2025-11-04 21:51:30] Execution finished normally.
+[2025-11-04 21:51:30] Sent final output to controller.
+[2025-11-04 21:51:34] Debugger ready handshake sent.
+[2025-11-04 21:51:34] Session ID received: 9bcdeb18-61fd-4ce0-a1ac-e383f12e4a65
+[2025-11-04 21:51:34] User code loaded (6 lines).
+[2025-11-04 21:51:34] TraceFoxDebugger initialized.
+[2025-11-04 21:51:34] Debugger run_code() started.
+[2025-11-04 21:51:34] Code compiled successfully.
+[2025-11-04 21:51:34] Emitted step at line=2
+[2025-11-04 21:51:40] Received command: step
+[2025-11-04 21:51:40] Emitted step at line=3
+[2025-11-04 21:51:44] Received command: step
+[2025-11-04 21:51:44] Emitted step at line=4
+[2025-11-04 21:51:47] Debugger ready handshake sent.
+[2025-11-04 21:51:47] Session ID received: d93f97eb-8443-4b58-a7da-ced8460e0300
+[2025-11-04 21:51:47] User code loaded (6 lines).
+[2025-11-04 21:51:47] TraceFoxDebugger initialized.
+[2025-11-04 21:51:47] Debugger run_code() started.
+[2025-11-04 21:51:47] Code compiled successfully.
+[2025-11-04 21:51:47] Emitted step at line=2
+[2025-11-04 21:51:50] Received command: step
+[2025-11-04 21:51:50] Emitted step at line=3
+[2025-11-04 21:51:50] Received command: step
+[2025-11-04 21:51:50] Emitted step at line=4
+[2025-11-04 21:51:51] Received command: step
+[2025-11-04 21:51:51] Emitted step at line=5
+[2025-11-04 21:51:51] Received command: step
+[2025-11-04 21:51:51] Execution finished normally.
+[2025-11-04 21:51:51] Sent final output to controller.
+[2025-11-04 21:52:18] Post-run EOF; exiting.
+[2025-11-04 21:52:18] Restored stdout/stderr and ended run_code().
+[2025-11-04 21:52:18] Debugger session completed.
+[2025-11-04 21:52:18] No command received; exiting debugger.
+[2025-11-04 21:52:18] Execution finished normally.
+[2025-11-04 21:54:58] Debugger ready handshake sent.
+[2025-11-04 21:54:58] Session ID received: 5c307285-f103-4f3f-89d7-d1f359408d0e
+[2025-11-04 21:54:58] User code loaded (6 lines).
+[2025-11-04 21:54:58] TraceFoxDebugger initialized.
+[2025-11-04 21:54:58] Debugger run_code() started.
+[2025-11-04 21:54:58] Code compiled successfully.
+[2025-11-04 21:54:58] Emitted step at line=2
+[2025-11-04 21:54:58] Received command: step
+[2025-11-04 21:54:58] Emitted step at line=3
+[2025-11-04 21:54:59] Received command: step
+[2025-11-04 21:54:59] Emitted step at line=4
+[2025-11-04 21:54:59] Received command: step
+[2025-11-04 21:54:59] Emitted step at line=5
+[2025-11-04 21:54:59] Received command: step
+[2025-11-04 21:54:59] Execution finished normally.
+[2025-11-04 21:54:59] Sent final output to controller.
+[2025-11-04 21:55:02] Debugger ready handshake sent.
+[2025-11-04 21:55:02] Session ID received: d4bcb6ce-3482-4970-852b-ec99446e3e99
+[2025-11-04 21:55:02] User code loaded (6 lines).
+[2025-11-04 21:55:02] TraceFoxDebugger initialized.
+[2025-11-04 21:55:02] Debugger run_code() started.
+[2025-11-04 21:55:02] Code compiled successfully.
+[2025-11-04 21:55:02] Emitted step at line=2
+[2025-11-04 21:55:03] Received command: step
+[2025-11-04 21:55:03] Emitted step at line=3
+[2025-11-04 21:55:04] Received command: step
+[2025-11-04 21:55:04] Emitted step at line=4
+[2025-11-04 21:55:05] Received command: step
+[2025-11-04 21:55:05] Emitted step at line=5
+[2025-11-04 21:55:05] Received command: step
+[2025-11-04 21:55:05] Execution finished normally.
+[2025-11-04 21:55:05] Sent final output to controller.
+[2025-11-04 21:55:12] Debugger ready handshake sent.
+[2025-11-04 21:55:12] Session ID received: 491f7e28-88a2-4897-8969-401231960b85
+[2025-11-04 21:55:12] User code loaded (6 lines).
+[2025-11-04 21:55:12] TraceFoxDebugger initialized.
+[2025-11-04 21:55:12] Debugger run_code() started.
+[2025-11-04 21:55:12] Code compiled successfully.
+[2025-11-04 21:55:12] Emitted step at line=2
+[2025-11-04 21:55:12] Received command: step
+[2025-11-04 21:55:12] Emitted step at line=3
+[2025-11-04 21:55:13] Received command: step
+[2025-11-04 21:55:13] Emitted step at line=4
+[2025-11-04 21:55:14] Received command: step
+[2025-11-04 21:55:14] Emitted step at line=5
+[2025-11-04 21:55:14] Received command: step
+[2025-11-04 21:55:14] Execution finished normally.
+[2025-11-04 21:55:14] Sent final output to controller.
+[2025-11-04 21:56:40] Post-run EOF; exiting.
+[2025-11-04 21:56:40] Restored stdout/stderr and ended run_code().
+[2025-11-04 21:56:40] Debugger session completed.
+[2025-11-04 21:56:40] Post-run EOF; exiting.
+[2025-11-04 21:56:40] Post-run EOF; exiting.
+[2025-11-04 21:56:40] Restored stdout/stderr and ended run_code().
+[2025-11-04 21:56:40] Debugger session completed.
+[2025-11-04 22:49:16] Debugger ready handshake sent.
+[2025-11-04 22:49:16] Session ID received: 4fa995cd-806f-422b-892b-e212c15ba018
+[2025-11-04 22:49:16] User code loaded (6 lines).
+[2025-11-04 22:49:16] TraceFoxDebugger initialized.
+[2025-11-04 22:49:16] Debugger run_code() started.
+[2025-11-04 22:49:16] Code compiled successfully.
+[2025-11-04 22:49:16] Emitted step at line=2
+[2025-11-04 22:49:20] Received command: step
+[2025-11-04 22:49:20] Emitted step at line=3
+[2025-11-04 22:49:20] Received command: step
+[2025-11-04 22:49:20] Emitted step at line=4
+[2025-11-04 22:49:21] Received command: step
+[2025-11-04 22:49:21] Emitted step at line=5
+[2025-11-04 22:49:21] Received command: step
+[2025-11-04 22:49:21] Execution finished normally.
+[2025-11-04 22:49:21] Sent final output to controller.
+[2025-11-04 22:49:24] Debugger ready handshake sent.
+[2025-11-04 22:49:24] Session ID received: fa6aa006-22a1-479a-84fd-78e8043dbcb0
+[2025-11-04 22:49:24] User code loaded (6 lines).
+[2025-11-04 22:49:24] TraceFoxDebugger initialized.
+[2025-11-04 22:49:24] Debugger run_code() started.
+[2025-11-04 22:49:24] Code compiled successfully.
+[2025-11-04 22:49:24] Emitted step at line=2
+[2025-11-04 22:49:27] Post-run EOF; exiting.
+[2025-11-04 22:49:27] Restored stdout/stderr and ended run_code().
+[2025-11-04 22:49:27] Debugger session completed.
+[2025-11-04 22:49:27] No command received; exiting debugger.
+[2025-11-04 22:49:27] Execution finished normally.
+[2025-11-04 22:56:28] Debugger ready handshake sent.
+[2025-11-04 22:56:28] Session ID received: 51070620-814c-41fd-96b3-9a2b1937f181
+[2025-11-04 22:56:28] User code loaded (6 lines).
+[2025-11-04 22:56:28] TraceFoxDebugger initialized.
+[2025-11-04 22:56:28] Debugger run_code() started.
+[2025-11-04 22:56:28] Code compiled successfully.
+[2025-11-04 22:56:28] Emitted step at line=2
+[2025-11-04 22:56:36] Received command: step
+[2025-11-04 22:56:36] Emitted step at line=3
+[2025-11-04 22:56:37] Received command: step
+[2025-11-04 22:56:37] Emitted step at line=4
+[2025-11-04 22:56:38] Received command: step
+[2025-11-04 22:56:38] Emitted step at line=5
+[2025-11-04 22:56:39] Received command: step
+[2025-11-04 22:56:39] Execution finished normally.
+[2025-11-04 22:56:39] Sent final output to controller.
+[2025-11-04 22:56:44] Debugger ready handshake sent.
+[2025-11-04 22:56:44] Session ID received: a7758757-3fd1-4564-a4cb-31602d523c7b
+[2025-11-04 22:56:44] User code loaded (6 lines).
+[2025-11-04 22:56:44] TraceFoxDebugger initialized.
+[2025-11-04 22:56:44] Debugger run_code() started.
+[2025-11-04 22:56:44] Code compiled successfully.
+[2025-11-04 22:56:44] Emitted step at line=2
+[2025-11-04 22:56:45] Received command: step
+[2025-11-04 22:56:45] Emitted step at line=3
+[2025-11-04 22:56:46] Received command: step
+[2025-11-04 22:56:46] Emitted step at line=4
+[2025-11-04 22:56:46] Received command: step
+[2025-11-04 22:56:46] Emitted step at line=5
+[2025-11-04 22:57:13] Post-run EOF; exiting.
+ting debugger.
+[2025-11-04 22:57:13] Restored stdout/stderr and ended run_code().
+[2025-11-04 22:57:13] Execution finished normally.
+[2025-11-04 22:57:13] Debugger session completed.
+[2025-11-04 22:57:13] Restored stdout/stderr and ended run_code().
+[2025-11-04 23:01:12] Debugger ready handshake sent.
+[2025-11-04 23:01:12] Session ID received: 2c8541e3-368b-4f4c-a2f1-72c38adb0691
+[2025-11-04 23:01:12] User code loaded (7 lines).
+[2025-11-04 23:01:12] TraceFoxDebugger initialized.
+[2025-11-04 23:01:12] Debugger run_code() started.
+[2025-11-04 23:01:12] SyntaxError during compile or run.
+[2025-11-04 23:01:12] Restored stdout/stderr and ended run_code().
+[2025-11-04 23:01:12] Debugger session completed.
+[2025-11-04 23:01:31] Debugger ready handshake sent.
+[2025-11-04 23:01:31] Session ID received: 354d13d2-967f-43d9-855b-b74cf1b8bc6a
+[2025-11-04 23:01:31] User code loaded (7 lines).
+[2025-11-04 23:01:31] TraceFoxDebugger initialized.
+[2025-11-04 23:01:31] Debugger run_code() started.
+[2025-11-04 23:01:31] Code compiled successfully.
+[2025-11-04 23:01:31] Emitted step at line=2
+[2025-11-04 23:01:32] Received command: step
+[2025-11-04 23:01:32] Emitted step at line=3
+[2025-11-04 23:01:33] Received command: step
+[2025-11-04 23:01:33] Emitted step at line=4
+[2025-11-04 23:01:35] Received command: step
+[2025-11-04 23:01:35] Emitted step at line=5
+[2025-11-04 23:01:35] Received command: step
+[2025-11-04 23:01:35] Emitted step at line=6
+[2025-11-04 23:01:35] Received command: step
+[2025-11-04 23:01:35] Execution finished normally.
+[2025-11-04 23:01:35] Sent final output to controller.
+[2025-11-04 23:02:04] Post-run EOF; exiting.
+[2025-11-04 23:02:04] Restored stdout/stderr and ended run_code().
+[2025-11-04 23:02:04] Debugger session completed.
+[2025-11-04 23:02:30] Debugger ready handshake sent.
+[2025-11-04 23:02:30] Session ID received: 798e4568-7929-4e61-b02a-14bc459104de
+[2025-11-04 23:02:30] User code loaded (6 lines).
+[2025-11-04 23:02:30] TraceFoxDebugger initialized.
+[2025-11-04 23:02:30] Debugger run_code() started.
+[2025-11-04 23:02:30] Code compiled successfully.
+[2025-11-04 23:02:30] Emitted step at line=1
+[2025-11-04 23:02:31] Received command: step
+[2025-11-04 23:02:31] Emitted step at line=2
+[2025-11-04 23:02:38] Debugger ready handshake sent.
+[2025-11-04 23:02:38] Session ID received: 8ed9373c-96d0-438a-baeb-516682ae46bb
+[2025-11-04 23:02:38] User code loaded (6 lines).
+[2025-11-04 23:02:38] TraceFoxDebugger initialized.
+[2025-11-04 23:02:38] Debugger run_code() started.
+[2025-11-04 23:02:38] Code compiled successfully.
+[2025-11-04 23:02:38] Emitted step at line=1
+[2025-11-04 23:02:39] Received command: step
+[2025-11-04 23:02:39] Emitted step at line=2
+[2025-11-04 23:02:40] Received command: step
+[2025-11-04 23:02:40] Emitted step at line=3
+[2025-11-04 23:02:40] Received command: step
+[2025-11-04 23:02:40] Emitted step at line=4
+[2025-11-04 23:02:50] Debugger ready handshake sent.
+[2025-11-04 23:02:50] Session ID received: 0c0f06ac-993f-49d3-b95e-f685e4149c9c
+[2025-11-04 23:02:50] User code loaded (1 lines).
+[2025-11-04 23:02:50] TraceFoxDebugger initialized.
+[2025-11-04 23:02:50] Debugger run_code() started.
+[2025-11-04 23:02:50] SyntaxError during compile or run.
+[2025-11-04 23:02:50] Restored stdout/stderr and ended run_code().
+[2025-11-04 23:02:50] Debugger session completed.
+[2025-11-04 23:02:53] Debugger ready handshake sent.
+[2025-11-04 23:02:53] Session ID received: 783867ac-34bf-40be-bf98-59c1194c8195
+[2025-11-04 23:02:53] User code loaded (7 lines).
+[2025-11-04 23:02:53] TraceFoxDebugger initialized.
+[2025-11-04 23:02:53] Debugger run_code() started.
+[2025-11-04 23:02:53] Code compiled successfully.
+[2025-11-04 23:02:53] Emitted step at line=2
+[2025-11-04 23:02:55] Received command: step
+[2025-11-04 23:02:55] Emitted step at line=3
+[2025-11-04 23:02:55] Received command: step
+[2025-11-04 23:02:55] Emitted step at line=4
+[2025-11-04 23:02:55] Received command: step
+[2025-11-04 23:02:55] Emitted step at line=5
+[2025-11-04 23:02:55] Received command: step
+[2025-11-04 23:02:55] Emitted step at line=6
+[2025-11-04 23:02:56] Received command: step
+[2025-11-04 23:02:56] Execution finished normally.
+[2025-11-04 23:02:56] Sent final output to controller.
+[2025-11-04 23:03:01] Post-run EOF; exiting.
+ting debugger.
+[2025-11-04 23:03:01] Execution finished normally.
+[2025-11-04 23:03:01] Execution finished normally.
+[2025-11-04 23:03:54] Debugger ready handshake sent.
+[2025-11-04 23:03:54] Session ID received: 6bfd1bd9-ec31-41d1-8c3e-4949f2c5c4b5
+[2025-11-04 23:03:54] User code loaded (7 lines).
+[2025-11-04 23:03:54] TraceFoxDebugger initialized.
+[2025-11-04 23:03:54] Debugger run_code() started.
+[2025-11-04 23:03:54] Code compiled successfully.
+[2025-11-04 23:03:54] Emitted step at line=2
+[2025-11-04 23:04:00] Received command: step
+[2025-11-04 23:04:00] Emitted step at line=3
+[2025-11-04 23:04:02] Received command: step
+[2025-11-04 23:04:02] Emitted step at line=4
+[2025-11-04 23:04:03] Received command: step
+[2025-11-04 23:04:03] Emitted step at line=5
+[2025-11-04 23:04:07] No command received; exiting debugger.
+[2025-11-04 23:04:07] Execution finished normally.
+[2025-11-04 23:04:07] Restored stdout/stderr and ended run_code().
+[2025-11-04 23:04:45] Debugger ready handshake sent.
+[2025-11-04 23:04:45] Session ID received: a0b18304-dfdd-46cc-847d-80883ed74956
+[2025-11-04 23:04:45] User code loaded (7 lines).
+[2025-11-04 23:04:45] TraceFoxDebugger initialized.
+[2025-11-04 23:04:45] Debugger run_code() started.
+[2025-11-04 23:04:45] Code compiled successfully.
+[2025-11-04 23:04:45] Emitted step at line=2
+[2025-11-04 23:04:46] Received command: step
+[2025-11-04 23:04:46] Emitted step at line=3
+[2025-11-04 23:04:46] Received command: step
+[2025-11-04 23:04:46] Emitted step at line=4
+[2025-11-04 23:04:46] Received command: step
+[2025-11-04 23:04:46] Emitted step at line=5
+[2025-11-04 23:04:47] Received command: step
+[2025-11-04 23:04:47] Emitted step at line=6
+[2025-11-04 23:04:47] Received command: step
+[2025-11-04 23:04:47] Execution finished normally.
+[2025-11-04 23:04:47] Sent final output to controller.
+[2025-11-04 23:05:04] Debugger ready handshake sent.
+[2025-11-04 23:05:04] Session ID received: 111a12d1-9d96-47f5-9791-06b052ffe531
+[2025-11-04 23:05:04] User code loaded (7 lines).
+[2025-11-04 23:05:04] TraceFoxDebugger initialized.
+[2025-11-04 23:05:04] Debugger run_code() started.
+[2025-11-04 23:05:04] Code compiled successfully.
+[2025-11-04 23:05:04] Emitted step at line=2
+[2025-11-04 23:05:04] Received command: step
+[2025-11-04 23:05:04] Emitted step at line=3
+[2025-11-04 23:05:05] Received command: step
+[2025-11-04 23:05:05] Emitted step at line=4
+[2025-11-04 23:05:05] Received command: step
+[2025-11-04 23:05:05] Emitted step at line=5
+[2025-11-04 23:05:15] Post-run EOF; exiting.
+[2025-11-04 23:05:15] Restored stdout/stderr and ended run_code().
+[2025-11-04 23:05:15] Debugger session completed.
+[2025-11-04 23:05:15] No command received; exiting debugger.
+[2025-11-04 23:05:15] Execution finished normally.
+[2025-11-04 23:06:17] Debugger ready handshake sent.
+[2025-11-04 23:06:17] Session ID received: 6b756279-60c7-4504-9c61-3130fb0146a1
+[2025-11-04 23:06:17] User code loaded (7 lines).
+[2025-11-04 23:06:17] TraceFoxDebugger initialized.
+[2025-11-04 23:06:17] Debugger run_code() started.
+[2025-11-04 23:06:17] Code compiled successfully.
+[2025-11-04 23:06:17] Emitted step at line=2
+[2025-11-04 23:06:19] Received command: step
+[2025-11-04 23:06:19] Emitted step at line=3
+[2025-11-04 23:06:19] Received command: step
+[2025-11-04 23:06:19] Emitted step at line=4
+[2025-11-04 23:06:19] Received command: step
+[2025-11-04 23:06:19] Emitted step at line=5
+[2025-11-04 23:06:19] Received command: step
+[2025-11-04 23:06:19] Emitted step at line=6
+[2025-11-04 23:06:19] Received command: step
+[2025-11-04 23:06:20] Execution finished normally.
+[2025-11-04 23:06:20] Sent final output to controller.
+[2025-11-04 23:06:27] Debugger ready handshake sent.
+[2025-11-04 23:06:27] Session ID received: bfd1c5b3-47ab-4dc8-aac4-563d96c85e89
+[2025-11-04 23:06:27] User code loaded (6 lines).
+[2025-11-04 23:06:27] TraceFoxDebugger initialized.
+[2025-11-04 23:06:27] Debugger run_code() started.
+[2025-11-04 23:06:27] Code compiled successfully.
+[2025-11-04 23:06:27] Emitted step at line=1
+[2025-11-04 23:06:28] Received command: step
+[2025-11-04 23:06:28] Emitted step at line=2
+[2025-11-04 23:06:29] Received command: step
+[2025-11-04 23:06:29] Emitted step at line=3
+[2025-11-04 23:06:30] Received command: step
+[2025-11-04 23:06:30] Emitted step at line=4
+[2025-11-04 23:06:34] Received command: step
+[2025-11-04 23:06:34] Emitted step at line=5
+[2025-11-04 23:06:37] Received command: step
+[2025-11-04 23:06:37] Execution finished normally.
+[2025-11-04 23:06:37] Sent final output to controller.
+[2025-11-04 23:06:54] Debugger ready handshake sent.
+[2025-11-04 23:06:54] Session ID received: ba3bc6f8-6d6a-4689-ba00-71ca064ddeed
+[2025-11-04 23:06:54] User code loaded (6 lines).
+[2025-11-04 23:06:54] TraceFoxDebugger initialized.
+[2025-11-04 23:06:54] Debugger run_code() started.
+[2025-11-04 23:06:54] Code compiled successfully.
+[2025-11-04 23:06:54] Emitted step at line=1
+[2025-11-04 23:06:58] Received command: step
+[2025-11-04 23:06:58] Emitted step at line=2
+[2025-11-04 23:07:03] Debugger ready handshake sent.
+[2025-11-04 23:07:03] Session ID received: 5f8ebef4-b2e0-4eda-9d0c-f98a9f1c82d7
+[2025-11-04 23:07:03] User code loaded (1 lines).
+[2025-11-04 23:07:03] TraceFoxDebugger initialized.
+[2025-11-04 23:07:03] Debugger run_code() started.
+[2025-11-04 23:07:03] SyntaxError during compile or run.
+[2025-11-04 23:07:03] Restored stdout/stderr and ended run_code().
+[2025-11-04 23:07:03] Debugger session completed.
+[2025-11-04 23:07:08] Debugger ready handshake sent.
+[2025-11-04 23:07:08] Session ID received: d6c51cc1-99a6-4b59-b642-57eef41ef295
+[2025-11-04 23:07:08] User code loaded (7 lines).
+[2025-11-04 23:07:08] TraceFoxDebugger initialized.
+[2025-11-04 23:07:08] Debugger run_code() started.
+[2025-11-04 23:07:08] Code compiled successfully.
+[2025-11-04 23:07:08] Emitted step at line=2
+[2025-11-04 23:07:09] Received command: step
+[2025-11-04 23:07:09] Emitted step at line=3
+[2025-11-04 23:07:09] Received command: step
+[2025-11-04 23:07:09] Emitted step at line=4
+[2025-11-04 23:07:09] Received command: step
+[2025-11-04 23:07:09] Emitted step at line=5
+[2025-11-04 23:07:10] Received command: step
+[2025-11-04 23:07:10] Emitted step at line=6
+[2025-11-04 23:07:11] Received command: step
+[2025-11-04 23:07:11] Execution finished normally.
+[2025-11-04 23:07:11] Sent final output to controller.
+[2025-11-04 23:07:27] Debugger ready handshake sent.
+[2025-11-04 23:07:27] Session ID received: a20c08f6-95a5-4f66-84e7-5d99b5a5101f
+[2025-11-04 23:07:27] User code loaded (6 lines).
+[2025-11-04 23:07:27] TraceFoxDebugger initialized.
+[2025-11-04 23:07:27] Debugger run_code() started.
+[2025-11-04 23:07:27] Code compiled successfully.
+[2025-11-04 23:07:27] Emitted step at line=1
+[2025-11-04 23:07:31] Received command: step
+[2025-11-04 23:07:31] Emitted step at line=2
+[2025-11-04 23:07:32] Received command: step
+[2025-11-04 23:07:32] Emitted step at line=3
+[2025-11-04 23:07:33] Received command: step
+[2025-11-04 23:07:33] Emitted step at line=4
+[2025-11-04 23:07:37] No command received; exiting debugger.
+[2025-11-04 23:07:37] Post-run EOF; exiting.
+[2025-11-04 23:07:37] Execution finished normally.
+[2025-11-04 23:07:37] Restored stdout/stderr and ended run_code().
+[2025-11-04 23:07:37] Sent final output to controller.
+[2025-11-04 23:07:37] Debugger session completed.
+[2025-11-04 23:07:37] Post-run EOF; exiting.
+[2025-11-04 23:07:37] Restored stdout/stderr and ended run_code().
+[2025-11-04 23:07:37] Debugger session completed.
+[2025-11-04 23:07:37] No command received; exiting debugger.
+[2025-11-04 23:07:37] Post-run EOF; exiting.
+[2025-11-04 23:07:37] Execution finished normally.
+[2025-11-04 23:09:44] Debugger ready handshake sent.
+[2025-11-04 23:09:44] Session ID received: fa4cd249-1969-40f6-b7d7-c48d01b7db5c
+[2025-11-04 23:09:44] User code loaded (7 lines).
+[2025-11-04 23:09:44] TraceFoxDebugger initialized.
+[2025-11-04 23:09:44] Debugger run_code() started.
+[2025-11-04 23:09:44] Code compiled successfully.
+[2025-11-04 23:09:44] Emitted step at line=2
+[2025-11-04 23:09:44] Received command: step
+[2025-11-04 23:09:44] Emitted step at line=3
+[2025-11-04 23:09:45] Received command: step
+[2025-11-04 23:09:45] Emitted step at line=4
+[2025-11-04 23:09:45] Received command: step
+[2025-11-04 23:09:45] Emitted step at line=5
+[2025-11-04 23:09:45] Received command: step
+[2025-11-04 23:09:45] Emitted step at line=6
+[2025-11-04 23:09:46] Received command: step
+[2025-11-04 23:09:46] Execution finished normally.
+[2025-11-04 23:09:46] Sent final output to controller.
+[2025-11-04 23:09:57] Debugger ready handshake sent.
+[2025-11-04 23:09:57] Session ID received: 8692fa13-bb35-40d1-afae-9181611ae4ef
+[2025-11-04 23:09:57] User code loaded (7 lines).
+[2025-11-04 23:09:57] TraceFoxDebugger initialized.
+[2025-11-04 23:09:57] Debugger run_code() started.
+[2025-11-04 23:09:57] Code compiled successfully.
+[2025-11-04 23:09:57] Emitted step at line=2
+[2025-11-04 23:09:57] Received command: step
+[2025-11-04 23:09:57] Emitted step at line=3
+[2025-11-04 23:09:58] Received command: step
+[2025-11-04 23:09:58] Emitted step at line=4
+[2025-11-04 23:09:58] Received command: step
+[2025-11-04 23:09:58] Emitted step at line=5
+[2025-11-04 23:09:58] Received command: step
+[2025-11-04 23:09:58] Emitted step at line=6
+[2025-11-04 23:09:58] Received command: step
+[2025-11-04 23:09:58] Execution finished normally.
+[2025-11-04 23:09:58] Sent final output to controller.
+[2025-11-04 23:10:12] Post-run EOF; exiting.
+[2025-11-04 23:10:12] Restored stdout/stderr and ended run_code().
+[2025-11-04 23:10:12] Debugger session completed.
+[2025-11-04 23:10:12] Post-run EOF; exiting.
+[2025-11-04 23:11:15] Debugger ready handshake sent.
+[2025-11-04 23:11:15] Session ID received: 22b09690-47a8-4648-83ff-bb9014cbd8a9
+[2025-11-04 23:11:15] User code loaded (7 lines).
+[2025-11-04 23:11:15] TraceFoxDebugger initialized.
+[2025-11-04 23:11:15] Debugger run_code() started.
+[2025-11-04 23:11:15] Code compiled successfully.
+[2025-11-04 23:11:15] Emitted step at line=2
+[2025-11-04 23:11:20] Received command: step
+[2025-11-04 23:11:20] Emitted step at line=3
+[2025-11-04 23:11:22] Received command: step
+[2025-11-04 23:11:22] Emitted step at line=4
+[2025-11-04 23:11:22] Received command: step
+[2025-11-04 23:11:22] Emitted step at line=5
+[2025-11-04 23:11:22] Received command: step
+[2025-11-04 23:11:22] Emitted step at line=6
+[2025-11-04 23:11:22] Received command: step
+[2025-11-04 23:11:22] Execution finished normally.
+[2025-11-04 23:11:22] Sent final output to controller.
+[2025-11-04 23:11:35] Post-run EOF; exiting.
+[2025-11-04 23:11:35] Restored stdout/stderr and ended run_code().
+[2025-11-04 23:11:35] Debugger session completed.
+[2025-11-04 23:12:09] Debugger ready handshake sent.
+[2025-11-04 23:12:09] Session ID received: ee7c4780-a4c4-4b7c-bc8b-d7af5e86bc29
+[2025-11-04 23:12:09] User code loaded (7 lines).
+[2025-11-04 23:12:09] TraceFoxDebugger initialized.
+[2025-11-04 23:12:09] Debugger run_code() started.
+[2025-11-04 23:12:09] Code compiled successfully.
+[2025-11-04 23:12:09] Emitted step at line=2
+[2025-11-04 23:12:09] Received command: step
+[2025-11-04 23:12:09] Emitted step at line=3
+[2025-11-04 23:12:10] Received command: step
+[2025-11-04 23:12:10] Emitted step at line=4
+[2025-11-04 23:12:11] Received command: step
+[2025-11-04 23:12:11] Emitted step at line=5
+[2025-11-04 23:12:11] Received command: step
+[2025-11-04 23:12:11] Emitted step at line=6
+[2025-11-04 23:12:11] Received command: step
+[2025-11-04 23:12:11] Execution finished normally.
+[2025-11-04 23:12:11] Sent final output to controller.
+[2025-11-04 23:12:14] Post-run EOF; exiting.
+[2025-11-04 23:12:14] Restored stdout/stderr and ended run_code().
+[2025-11-04 23:12:14] Debugger session completed.
+[2025-11-04 23:16:05] Debugger ready handshake sent.
+[2025-11-04 23:16:05] Session ID received: 84cfa4e7-c38a-49a6-835f-f98f12156c17
+[2025-11-04 23:16:05] User code loaded (7 lines).
+[2025-11-04 23:16:05] TraceFoxDebugger initialized.
+[2025-11-04 23:16:05] Debugger run_code() started.
+[2025-11-04 23:16:05] Code compiled successfully.
+[2025-11-04 23:16:05] Emitted step at line=2
+[2025-11-04 23:16:06] Received command: step
+[2025-11-04 23:16:06] Emitted step at line=3
+[2025-11-04 23:16:06] Received command: step
+[2025-11-04 23:16:06] Emitted step at line=4
+[2025-11-04 23:16:07] Received command: step
+[2025-11-04 23:16:07] Emitted step at line=5
+[2025-11-04 23:16:07] Received command: step
+[2025-11-04 23:16:07] Emitted step at line=6
+[2025-11-04 23:16:07] Received command: step
+[2025-11-04 23:16:07] Execution finished normally.
+[2025-11-04 23:16:07] Sent final output to controller.
+[2025-11-04 23:16:11] Post-run EOF; exiting.
+[2025-11-04 23:16:11] Restored stdout/stderr and ended run_code().
+[2025-11-04 23:16:11] Debugger session completed.
+[2025-11-04 23:17:24] Debugger ready handshake sent.
+[2025-11-04 23:17:24] Session ID received: 2489bfaf-1d1d-4380-8517-657a79eb22e8
+[2025-11-04 23:17:24] User code loaded (7 lines).
+[2025-11-04 23:17:24] TraceFoxDebugger initialized.
+[2025-11-04 23:17:24] Debugger run_code() started.
+[2025-11-04 23:17:24] Code compiled successfully.
+[2025-11-04 23:17:24] Emitted step at line=2
+[2025-11-04 23:17:25] Received command: step
+[2025-11-04 23:17:25] Emitted step at line=3
+[2025-11-04 23:17:25] Received command: step
+[2025-11-04 23:17:25] Emitted step at line=4
+[2025-11-04 23:17:25] Received command: step
+[2025-11-04 23:17:25] Emitted step at line=5
+[2025-11-04 23:17:26] Received command: step
+[2025-11-04 23:17:26] Emitted step at line=6
+[2025-11-04 23:17:26] Received command: step
+[2025-11-04 23:17:26] Execution finished normally.
+[2025-11-04 23:17:26] Sent final output to controller.
+[2025-11-04 23:18:04] Debugger ready handshake sent.
+[2025-11-04 23:18:04] Session ID received: 3e690dce-9a34-4d6b-915f-8770d19b6679
+[2025-11-04 23:18:04] User code loaded (7 lines).
+[2025-11-04 23:18:04] TraceFoxDebugger initialized.
+[2025-11-04 23:18:04] Debugger run_code() started.
+[2025-11-04 23:18:04] Code compiled successfully.
+[2025-11-04 23:18:04] Emitted step at line=2
+[2025-11-04 23:18:05] Received command: step
+[2025-11-04 23:18:05] Emitted step at line=3
+[2025-11-04 23:18:05] Received command: step
+[2025-11-04 23:18:05] Emitted step at line=4
+[2025-11-04 23:18:06] Received command: step
+[2025-11-04 23:18:06] Emitted step at line=5
+[2025-11-04 23:18:06] Received command: step
+[2025-11-04 23:18:06] Emitted step at line=6
+[2025-11-04 23:18:06] Received command: step
+[2025-11-04 23:18:06] Execution finished normally.
+[2025-11-04 23:18:06] Sent final output to controller.
+[2025-11-04 23:18:08] Post-run EOF; exiting.
+[2025-11-04 23:18:08] Restored stdout/stderr and ended run_code().
+[2025-11-04 23:18:08] Debugger session completed.
+[2025-11-04 23:18:08] Post-run EOF; exiting.
+[2025-11-04 23:19:14] Debugger ready handshake sent.
+[2025-11-04 23:19:14] Session ID received: 3537ea02-5038-4dca-9729-249c1fefbb9e
+[2025-11-04 23:19:14] User code loaded (7 lines).
+[2025-11-04 23:19:14] TraceFoxDebugger initialized.
+[2025-11-04 23:19:14] Debugger run_code() started.
+[2025-11-04 23:19:14] Code compiled successfully.
+[2025-11-04 23:19:14] Emitted step at line=2
+[2025-11-04 23:19:15] Received command: step
+[2025-11-04 23:19:15] Emitted step at line=3
+[2025-11-04 23:19:15] Received command: step
+[2025-11-04 23:19:15] Emitted step at line=4
+[2025-11-04 23:19:16] Received command: step
+[2025-11-04 23:19:16] Emitted step at line=5
+[2025-11-04 23:19:16] Received command: step
+[2025-11-04 23:19:16] Emitted step at line=6
+[2025-11-04 23:19:16] Received command: step
+[2025-11-04 23:19:16] Execution finished normally.
+[2025-11-04 23:19:16] Sent final output to controller.
+[2025-11-04 23:19:18] Post-run EOF; exiting.
+[2025-11-04 23:19:18] Restored stdout/stderr and ended run_code().
+[2025-11-04 23:19:18] Debugger session completed.
+[2025-11-04 23:20:41] Debugger ready handshake sent.
+[2025-11-04 23:20:41] Session ID received: 1d8d2bb8-b92c-4c57-908f-3ba7dcfa5b58
+[2025-11-04 23:20:41] User code loaded (7 lines).
+[2025-11-04 23:20:41] TraceFoxDebugger initialized.
+[2025-11-04 23:20:41] Debugger run_code() started.
+[2025-11-04 23:20:41] Code compiled successfully.
+[2025-11-04 23:20:41] Emitted step at line=2
+[2025-11-04 23:20:42] Received command: step
+[2025-11-04 23:20:42] Emitted step at line=3
+[2025-11-04 23:20:43] Received command: step
+[2025-11-04 23:20:43] Emitted step at line=4
+[2025-11-04 23:20:44] Received command: step
+[2025-11-04 23:20:44] Emitted step at line=5
+[2025-11-04 23:20:45] Received command: step
+[2025-11-04 23:20:45] Emitted step at line=6
+[2025-11-04 23:20:45] Received command: step
+[2025-11-04 23:20:45] Execution finished normally.
+[2025-11-04 23:20:45] Sent final output to controller.
+[2025-11-04 23:20:48] Debugger ready handshake sent.
+[2025-11-04 23:20:48] Session ID received: 81774325-e772-422c-96ab-9c36fe7c67af
+[2025-11-04 23:20:48] User code loaded (7 lines).
+[2025-11-04 23:20:48] TraceFoxDebugger initialized.
+[2025-11-04 23:20:48] Debugger run_code() started.
+[2025-11-04 23:20:48] Code compiled successfully.
+[2025-11-04 23:20:48] Emitted step at line=2
+[2025-11-04 23:20:48] Received command: step
+[2025-11-04 23:20:48] Emitted step at line=3
+[2025-11-04 23:20:50] Received command: step
+[2025-11-04 23:20:50] Emitted step at line=4
+[2025-11-04 23:20:51] Received command: step
+[2025-11-04 23:20:51] Emitted step at line=5
+[2025-11-04 23:20:52] Received command: step
+[2025-11-04 23:20:52] Emitted step at line=6
+[2025-11-04 23:20:52] Received command: step
+[2025-11-04 23:20:52] Execution finished normally.
+[2025-11-04 23:20:52] Sent final output to controller.
+[2025-11-04 23:20:56] Debugger ready handshake sent.
+[2025-11-04 23:20:56] Session ID received: 0430ea98-169c-4554-b5fa-b0637c55b6dd
+[2025-11-04 23:20:56] User code loaded (7 lines).
+[2025-11-04 23:20:56] TraceFoxDebugger initialized.
+[2025-11-04 23:20:56] Debugger run_code() started.
+[2025-11-04 23:20:56] Code compiled successfully.
+[2025-11-04 23:20:56] Emitted step at line=2
+[2025-11-04 23:20:59] Received command: step
+[2025-11-04 23:20:59] Emitted step at line=3
+[2025-11-04 23:21:00] Received command: step
+[2025-11-04 23:21:00] Emitted step at line=4
+[2025-11-04 23:21:00] Received command: step
+[2025-11-04 23:21:00] Emitted step at line=5
+[2025-11-04 23:21:00] Received command: step
+[2025-11-04 23:21:00] Emitted step at line=6
+[2025-11-04 23:21:00] Received command: step
+[2025-11-04 23:21:00] Execution finished normally.
+[2025-11-04 23:21:00] Sent final output to controller.
+[2025-11-04 23:21:05] Debugger ready handshake sent.
+[2025-11-04 23:21:05] Session ID received: 3bf9c025-8e71-4909-912b-f87e30f77490
+[2025-11-04 23:21:05] User code loaded (7 lines).
+[2025-11-04 23:21:05] TraceFoxDebugger initialized.
+[2025-11-04 23:21:05] Debugger run_code() started.
+[2025-11-04 23:21:05] Code compiled successfully.
+[2025-11-04 23:21:05] Emitted step at line=2
+[2025-11-04 23:21:06] Received command: step
+[2025-11-04 23:21:06] Emitted step at line=3
+[2025-11-04 23:21:07] Received command: step
+[2025-11-04 23:21:07] Emitted step at line=4
+[2025-11-04 23:21:07] Received command: step
+[2025-11-04 23:21:07] Emitted step at line=5
+[2025-11-04 23:21:07] Received command: step
+[2025-11-04 23:21:07] Emitted step at line=6
+[2025-11-04 23:21:07] Received command: step
+[2025-11-04 23:21:07] Execution finished normally.
+[2025-11-04 23:21:07] Sent final output to controller.
+[2025-11-04 23:21:10] Post-run EOF; exiting.
+[2025-11-04 23:21:10] Restored stdout/stderr and ended run_code().
+[2025-11-04 23:21:10] Debugger session completed.
+[2025-11-04 23:21:10] Post-run EOF; exiting.
+[2025-11-04 23:21:10] Post-run EOF; exiting.
+[2025-11-04 23:21:48] Debugger ready handshake sent.
+[2025-11-04 23:21:48] Session ID received: a5b0ebf4-8567-4371-825f-f987b5e74af2
+[2025-11-04 23:21:48] User code loaded (7 lines).
+[2025-11-04 23:21:48] TraceFoxDebugger initialized.
+[2025-11-04 23:21:48] Debugger run_code() started.
+[2025-11-04 23:21:48] Code compiled successfully.
+[2025-11-04 23:21:48] Emitted step at line=2
+[2025-11-04 23:21:49] Received command: step
+[2025-11-04 23:21:49] Emitted step at line=3
+[2025-11-04 23:21:51] Received command: step
+[2025-11-04 23:21:51] Emitted step at line=4
+[2025-11-04 23:21:52] Received command: step
+[2025-11-04 23:21:52] Emitted step at line=5
+[2025-11-04 23:21:52] Received command: step
+[2025-11-04 23:21:52] Emitted step at line=6
+[2025-11-04 23:21:52] Received command: step
+[2025-11-04 23:21:52] Execution finished normally.
+[2025-11-04 23:21:52] Sent final output to controller.
+[2025-11-04 23:21:58] Post-run EOF; exiting.
+[2025-11-04 23:21:58] Restored stdout/stderr and ended run_code().
+[2025-11-04 23:21:58] Debugger session completed.
+[2025-11-04 23:22:14] Debugger ready handshake sent.
+[2025-11-04 23:22:14] Session ID received: d9dd3af5-30bc-4047-8f79-6c7245c962cf
+[2025-11-04 23:22:14] User code loaded (7 lines).
+[2025-11-04 23:22:14] TraceFoxDebugger initialized.
+[2025-11-04 23:22:14] Debugger run_code() started.
+[2025-11-04 23:22:14] Code compiled successfully.
+[2025-11-04 23:22:14] Emitted step at line=2
+[2025-11-04 23:22:14] Received command: step
+[2025-11-04 23:22:14] Emitted step at line=3
+[2025-11-04 23:22:14] Received command: step
+[2025-11-04 23:22:14] Emitted step at line=4
+[2025-11-04 23:22:15] Received command: step
+[2025-11-04 23:22:15] Emitted step at line=5
+[2025-11-04 23:22:15] Received command: step
+[2025-11-04 23:22:15] Emitted step at line=6
+[2025-11-04 23:22:15] Received command: step
+[2025-11-04 23:22:15] Execution finished normally.
+[2025-11-04 23:22:15] Sent final output to controller.
+[2025-11-04 23:22:17] Post-run EOF; exiting.
+[2025-11-04 23:22:17] Restored stdout/stderr and ended run_code().
+[2025-11-04 23:22:17] Debugger session completed.
+[2025-11-04 23:22:40] Debugger ready handshake sent.
+[2025-11-04 23:22:40] Session ID received: 7aee35cf-3a21-44eb-9698-4d14421017b6
+[2025-11-04 23:22:40] User code loaded (7 lines).
+[2025-11-04 23:22:40] TraceFoxDebugger initialized.
+[2025-11-04 23:22:40] Debugger run_code() started.
+[2025-11-04 23:22:40] Code compiled successfully.
+[2025-11-04 23:22:40] Emitted step at line=2
+[2025-11-04 23:22:41] Received command: step
+[2025-11-04 23:22:41] Emitted step at line=3
+[2025-11-04 23:22:41] Received command: step
+[2025-11-04 23:22:41] Emitted step at line=4
+[2025-11-04 23:22:42] Received command: step
+[2025-11-04 23:22:42] Emitted step at line=5
+[2025-11-04 23:22:42] Received command: step
+[2025-11-04 23:22:42] Emitted step at line=6
+[2025-11-04 23:22:42] Received command: step
+[2025-11-04 23:22:42] Execution finished normally.
+[2025-11-04 23:22:42] Sent final output to controller.
+[2025-11-04 23:22:44] Post-run EOF; exiting.
+[2025-11-04 23:22:44] Restored stdout/stderr and ended run_code().
+[2025-11-04 23:22:44] Debugger session completed.
+[2025-11-04 23:23:56] Debugger ready handshake sent.
+[2025-11-04 23:23:56] Session ID received: 40bf1845-ff55-4295-b747-fe341cde2f0a
+[2025-11-04 23:23:56] User code loaded (7 lines).
+[2025-11-04 23:23:56] TraceFoxDebugger initialized.
+[2025-11-04 23:23:56] Debugger run_code() started.
+[2025-11-04 23:23:56] Code compiled successfully.
+[2025-11-04 23:23:56] Emitted step at line=2
+[2025-11-04 23:23:56] Received command: step
+[2025-11-04 23:23:56] Emitted step at line=3
+[2025-11-04 23:23:57] Received command: step
+[2025-11-04 23:23:57] Emitted step at line=4
+[2025-11-04 23:23:57] Received command: step
+[2025-11-04 23:23:57] Emitted step at line=5
+[2025-11-04 23:23:57] Received command: step
+[2025-11-04 23:23:57] Emitted step at line=6
+[2025-11-04 23:23:57] Received command: step
+[2025-11-04 23:23:57] Execution finished normally.
+[2025-11-04 23:23:57] Sent final output to controller.
+[2025-11-04 23:24:00] Post-run EOF; exiting.
+[2025-11-04 23:24:00] Restored stdout/stderr and ended run_code().
+[2025-11-04 23:24:00] Debugger session completed.
+[2025-11-04 23:24:13] Debugger ready handshake sent.
+[2025-11-04 23:24:13] Session ID received: a02237b4-0282-4dd4-8967-4441f5343c53
+[2025-11-04 23:24:13] User code loaded (7 lines).
+[2025-11-04 23:24:13] TraceFoxDebugger initialized.
+[2025-11-04 23:24:13] Debugger run_code() started.
+[2025-11-04 23:24:13] Code compiled successfully.
+[2025-11-04 23:24:13] Emitted step at line=2
+[2025-11-04 23:24:14] Received command: step
+[2025-11-04 23:24:14] Emitted step at line=3
+[2025-11-04 23:24:14] Received command: step
+[2025-11-04 23:24:14] Emitted step at line=4
+[2025-11-04 23:24:14] Received command: step
+[2025-11-04 23:24:14] Emitted step at line=5
+[2025-11-04 23:24:15] Received command: step
+[2025-11-04 23:24:15] Emitted step at line=6
+[2025-11-04 23:24:15] Received command: step
+[2025-11-04 23:24:15] Execution finished normally.
+[2025-11-04 23:24:15] Sent final output to controller.
+[2025-11-04 23:24:27] Post-run EOF; exiting.
+[2025-11-04 23:24:46] Debugger ready handshake sent.
+[2025-11-04 23:24:46] Session ID received: 9244aa69-c8d4-4eae-adf1-01cc4fab1a1b
+[2025-11-04 23:24:46] User code loaded (7 lines).
+[2025-11-04 23:24:46] TraceFoxDebugger initialized.
+[2025-11-04 23:24:46] Debugger run_code() started.
+[2025-11-04 23:24:46] Code compiled successfully.
+[2025-11-04 23:24:46] Emitted step at line=2
+[2025-11-04 23:24:46] Received command: step
+[2025-11-04 23:24:46] Emitted step at line=3
+[2025-11-04 23:24:47] Received command: step
+[2025-11-04 23:24:47] Emitted step at line=4
+[2025-11-04 23:24:47] Received command: step
+[2025-11-04 23:24:47] Emitted step at line=5
+[2025-11-04 23:24:47] Received command: step
+[2025-11-04 23:24:47] Emitted step at line=6
+[2025-11-04 23:24:47] Received command: step
+[2025-11-04 23:24:47] Execution finished normally.
+[2025-11-04 23:24:47] Sent final output to controller.
+[2025-11-04 23:24:49] Debugger ready handshake sent.
+[2025-11-04 23:24:49] Session ID received: fd005248-7c6c-46d7-ac97-5d8236513196
+[2025-11-04 23:24:49] User code loaded (7 lines).
+[2025-11-04 23:24:49] TraceFoxDebugger initialized.
+[2025-11-04 23:24:49] Debugger run_code() started.
+[2025-11-04 23:24:49] Code compiled successfully.
+[2025-11-04 23:24:49] Emitted step at line=2
+[2025-11-04 23:24:50] Received command: step
+[2025-11-04 23:24:50] Emitted step at line=3
+[2025-11-04 23:24:51] Received command: step
+[2025-11-04 23:24:51] Emitted step at line=4
+[2025-11-04 23:24:52] Received command: step
+[2025-11-04 23:24:52] Emitted step at line=5
+[2025-11-04 23:24:52] Received command: step
+[2025-11-04 23:24:52] Emitted step at line=6
+[2025-11-04 23:24:54] Received command: step
+[2025-11-04 23:24:54] Execution finished normally.
+[2025-11-04 23:24:54] Sent final output to controller.
+[2025-11-04 23:25:00] Debugger ready handshake sent.
+[2025-11-04 23:25:00] Session ID received: acddcc1a-e9b9-4d97-ab06-5006ce7fb300
+[2025-11-04 23:25:00] User code loaded (7 lines).
+[2025-11-04 23:25:00] TraceFoxDebugger initialized.
+[2025-11-04 23:25:00] Debugger run_code() started.
+[2025-11-04 23:25:00] Code compiled successfully.
+[2025-11-04 23:25:00] Emitted step at line=2
+[2025-11-04 23:25:02] Received command: step
+[2025-11-04 23:25:02] Emitted step at line=3
+[2025-11-04 23:25:02] Received command: step
+[2025-11-04 23:25:02] Emitted step at line=4
+[2025-11-04 23:25:03] Received command: step
+[2025-11-04 23:25:03] Emitted step at line=5
+[2025-11-04 23:25:03] Received command: step
+[2025-11-04 23:25:03] Emitted step at line=6
+[2025-11-04 23:25:04] Received command: step
+[2025-11-04 23:25:04] Execution finished normally.
+[2025-11-04 23:25:04] Sent final output to controller.
+[2025-11-04 23:25:06] Post-run EOF; exiting.
+[2025-11-04 23:25:06] Restored stdout/stderr and ended run_code().
+[2025-11-04 23:25:06] Debugger session completed.
+[2025-11-04 23:25:06] Post-run EOF; exiting.
+[2025-11-04 23:26:29] Debugger ready handshake sent.
+[2025-11-04 23:26:29] Session ID received: c9ff1d44-ca03-4573-9068-87d3539cf848
+[2025-11-04 23:26:29] User code loaded (7 lines).
+[2025-11-04 23:26:29] TraceFoxDebugger initialized.
+[2025-11-04 23:26:29] Debugger run_code() started.
+[2025-11-04 23:26:29] Code compiled successfully.
+[2025-11-04 23:26:29] Emitted step at line=2
+[2025-11-04 23:26:29] Received command: step
+[2025-11-04 23:26:29] Emitted step at line=3
+[2025-11-04 23:26:29] Received command: step
+[2025-11-04 23:26:29] Emitted step at line=4
+[2025-11-04 23:26:30] Received command: step
+[2025-11-04 23:26:30] Emitted step at line=5
+[2025-11-04 23:26:30] Received command: step
+[2025-11-04 23:26:30] Emitted step at line=6
+[2025-11-04 23:26:30] Received command: step
+[2025-11-04 23:26:30] Execution finished normally.
+[2025-11-04 23:26:30] Sent final output to controller.
+[2025-11-04 23:26:33] Debugger ready handshake sent.
+[2025-11-04 23:26:33] Session ID received: 75272322-b4c5-4c64-ac3a-6cf41c2021fc
+[2025-11-04 23:26:33] User code loaded (7 lines).
+[2025-11-04 23:26:33] TraceFoxDebugger initialized.
+[2025-11-04 23:26:33] Debugger run_code() started.
+[2025-11-04 23:26:33] Code compiled successfully.
+[2025-11-04 23:26:33] Emitted step at line=2
+[2025-11-04 23:26:34] Received command: step
+[2025-11-04 23:26:34] Emitted step at line=3
+[2025-11-04 23:26:34] Received command: step
+[2025-11-04 23:26:34] Emitted step at line=4
+[2025-11-04 23:26:34] Received command: step
+[2025-11-04 23:26:34] Emitted step at line=5
+[2025-11-04 23:26:35] Received command: step
+[2025-11-04 23:26:35] Emitted step at line=6
+[2025-11-04 23:26:35] Received command: step
+[2025-11-04 23:26:35] Execution finished normally.
+[2025-11-04 23:26:35] Sent final output to controller.
+[2025-11-04 23:26:37] Debugger ready handshake sent.
+[2025-11-04 23:26:37] Session ID received: 2955aa16-1c3e-4085-9c06-e82a9863b20a
+[2025-11-04 23:26:37] User code loaded (7 lines).
+[2025-11-04 23:26:37] TraceFoxDebugger initialized.
+[2025-11-04 23:26:37] Debugger run_code() started.
+[2025-11-04 23:26:37] Code compiled successfully.
+[2025-11-04 23:26:37] Emitted step at line=2
+[2025-11-04 23:26:38] Received command: step
+[2025-11-04 23:26:38] Emitted step at line=3
+[2025-11-04 23:26:38] Received command: step
+[2025-11-04 23:26:38] Emitted step at line=4
+[2025-11-04 23:26:40] Received command: step
+[2025-11-04 23:26:40] Emitted step at line=5
+[2025-11-04 23:26:41] Received command: step
+[2025-11-04 23:26:41] Emitted step at line=6
+[2025-11-04 23:26:41] Received command: step
+[2025-11-04 23:26:41] Execution finished normally.
+[2025-11-04 23:26:41] Sent final output to controller.
+[2025-11-04 23:26:49] Post-run EOF; exiting.
+[2025-11-05 07:42:36] Debugger ready handshake sent.
+[2025-11-05 07:42:36] Session ID received: 51fa41ef-de86-4d8c-9c03-b9c12d7a4619
+[2025-11-05 07:42:36] User code loaded (6 lines).
+[2025-11-05 07:42:36] TraceFoxDebugger initialized.
+[2025-11-05 07:42:36] Debugger run_code() started.
+[2025-11-05 07:42:36] Code compiled successfully.
+[2025-11-05 07:42:36] Emitted step at line=1
+[2025-11-05 07:42:37] Received command: step
+[2025-11-05 07:42:37] Emitted step at line=2
+[2025-11-05 07:42:38] Received command: step
+[2025-11-05 07:42:38] Emitted step at line=3
+[2025-11-05 07:42:47] Received command: step
+[2025-11-05 07:42:47] Emitted step at line=4
+[2025-11-05 07:42:47] Received command: step
+[2025-11-05 07:42:47] Emitted step at line=5
+[2025-11-05 07:42:47] Received command: step
+[2025-11-05 07:42:47] Execution finished normally.
+[2025-11-05 07:42:47] Sent final output to controller.
+[2025-11-05 07:43:42] Post-run EOF; exiting.
+[2025-11-05 12:12:39] Debugger ready handshake sent.
+[2025-11-05 12:12:39] Session ID received: f2ce76a8-4990-4daf-8922-bf288dfca275
+[2025-11-05 12:12:39] User code loaded (6 lines).
+[2025-11-05 12:12:39] TraceFoxDebugger initialized.
+[2025-11-05 12:12:39] Debugger run_code() started.
+[2025-11-05 12:12:39] Code compiled successfully.
+[2025-11-05 12:12:39] Emitted step at line=1
+[2025-11-05 12:12:42] Received command: step
+[2025-11-05 12:12:42] Emitted step at line=2
+[2025-11-05 12:12:56] Received command: step
+[2025-11-05 12:12:56] Emitted step at line=3
+[2025-11-05 12:12:59] Received command: step
+[2025-11-05 12:12:59] Emitted step at line=4
+[2025-11-05 12:13:05] Received command: step
+[2025-11-05 12:13:05] Emitted step at line=5
+[2025-11-05 12:13:26] Received command: step
+[2025-11-05 12:13:26] Execution finished normally.
+[2025-11-05 12:13:26] Sent final output to controller.
+[2025-11-05 12:14:37] Post-run EOF; exiting.
+[2025-11-05 12:14:37] Restored stdout/stderr and ended run_code().
+[2025-11-05 12:14:37] Debugger session completed.
+[2025-11-05 12:42:16] Debugger ready handshake sent.
+[2025-11-05 12:42:16] Session ID received: d0380a5f-cb02-4c72-a3d9-b40aede56a21
+[2025-11-05 12:42:16] User code loaded (7 lines).
+[2025-11-05 12:42:16] TraceFoxDebugger initialized.
+[2025-11-05 12:42:16] Debugger run_code() started.
+[2025-11-05 12:42:16] Code compiled successfully.
+[2025-11-05 12:42:16] Emitted step at line=1
+[2025-11-05 12:42:18] Received command: step
+[2025-11-05 12:42:18] Emitted step at line=2
+[2025-11-05 12:42:31] Received command: step
+[2025-11-05 12:42:31] Emitted step at line=3
+[2025-11-05 12:42:34] Received command: step
+[2025-11-05 12:42:34] Emitted step at line=4
+[2025-11-05 12:42:42] Received command: step
+[2025-11-05 12:42:42] Emitted step at line=5
+[2025-11-05 12:43:05] Received command: step
+[2025-11-05 12:43:05] Execution finished normally.
+[2025-11-05 12:43:05] Sent final output to controller.
+[2025-11-05 12:43:09] Debugger ready handshake sent.
+[2025-11-05 12:43:09] Session ID received: 9ff36ffb-d205-4c13-aaa3-6fec46836d1a
+[2025-11-05 12:43:09] User code loaded (7 lines).
+[2025-11-05 12:43:09] TraceFoxDebugger initialized.
+[2025-11-05 12:43:09] Debugger run_code() started.
+[2025-11-05 12:43:09] Code compiled successfully.
+[2025-11-05 12:43:09] Emitted step at line=1
+[2025-11-05 12:43:10] Received command: step
+[2025-11-05 12:43:10] Emitted step at line=2
+[2025-11-05 12:43:10] Received command: step
+[2025-11-05 12:43:10] Emitted step at line=3
+[2025-11-05 12:43:10] Received command: step
+[2025-11-05 12:43:10] Emitted step at line=4
+[2025-11-05 12:43:11] Received command: step
+[2025-11-05 12:43:11] Emitted step at line=5
+[2025-11-05 12:43:11] Received command: step
+[2025-11-05 12:43:11] Execution finished normally.
+[2025-11-05 12:43:11] Sent final output to controller.
+[2025-11-05 12:43:35] Post-run EOF; exiting.
+[2025-11-05 12:43:35] Restored stdout/stderr and ended run_code().
+[2025-11-05 12:43:35] Debugger session completed.
+[2025-11-05 12:43:35] Post-run EOF; exiting.
+[2025-11-05 12:48:48] Debugger ready handshake sent.
+[2025-11-05 12:48:48] Session ID received: e2276316-feed-4061-a35f-f218349e97e7
+[2025-11-05 12:48:48] User code loaded (6 lines).
+[2025-11-05 12:48:48] TraceFoxDebugger initialized.
+[2025-11-05 12:48:48] Debugger run_code() started.
+[2025-11-05 12:48:48] Code compiled successfully.
+[2025-11-05 12:48:48] Emitted step at line=1
+[2025-11-05 12:48:52] Received command: step
+[2025-11-05 12:48:52] Emitted step at line=2
+[2025-11-05 12:48:52] Received command: step
+[2025-11-05 12:48:52] Emitted step at line=3
+[2025-11-05 12:48:53] Received command: step
+[2025-11-05 12:48:53] Emitted step at line=4
+[2025-11-05 12:48:53] Received command: step
+[2025-11-05 12:48:53] Emitted step at line=5
+[2025-11-05 12:48:53] Received command: step
+[2025-11-05 12:48:53] Execution finished normally.
+[2025-11-05 12:48:53] Sent final output to controller.
+[2025-11-05 12:48:58] Debugger ready handshake sent.
+[2025-11-05 12:48:58] Session ID received: a4c7fdb5-5b0d-4e11-ba40-c1b548559405
+[2025-11-05 12:48:58] User code loaded (3 lines).
+[2025-11-05 12:48:58] TraceFoxDebugger initialized.
+[2025-11-05 12:48:58] Debugger run_code() started.
+[2025-11-05 12:48:58] Code compiled successfully.
+[2025-11-05 12:48:58] Emitted step at line=1
+[2025-11-05 12:48:59] Received command: step
+[2025-11-05 12:48:59] Emitted step at line=2
+[2025-11-05 12:48:59] Received command: step
+[2025-11-05 12:48:59] Execution finished normally.
+[2025-11-05 12:48:59] Sent final output to controller.
+[2025-11-05 12:49:57] Debugger ready handshake sent.
+[2025-11-05 12:49:57] Session ID received: 9e397e09-2252-4ac9-9367-d91d3883cda6
+[2025-11-05 12:49:57] User code loaded (6 lines).
+[2025-11-05 12:49:57] TraceFoxDebugger initialized.
+[2025-11-05 12:49:57] Debugger run_code() started.
+[2025-11-05 12:49:57] Code compiled successfully.
+[2025-11-05 12:49:57] Emitted step at line=1
+[2025-11-05 12:49:57] Received command: step
+[2025-11-05 12:49:57] Emitted step at line=2
+[2025-11-05 12:49:58] Received command: step
+[2025-11-05 12:49:58] Emitted step at line=3
+[2025-11-05 12:49:58] Received command: step
+[2025-11-05 12:49:58] Emitted step at line=4
+[2025-11-05 12:54:32] Debugger ready handshake sent.
+[2025-11-05 12:54:32] Session ID received: e04ee295-6519-4b27-b2b1-3e3104b22553
+[2025-11-05 12:54:32] User code loaded (6 lines).
+[2025-11-05 12:54:32] TraceFoxDebugger initialized.
+[2025-11-05 12:54:32] Debugger run_code() started.
+[2025-11-05 12:54:32] Code compiled successfully.
+[2025-11-05 12:54:32] Emitted step at line=1
+[2025-11-05 12:54:40] Debugger ready handshake sent.
+[2025-11-05 12:54:40] Session ID received: 97f5caf4-dff0-44f6-899b-03a26a3ca33f
+[2025-11-05 12:54:40] User code loaded (4 lines).
+[2025-11-05 12:54:40] TraceFoxDebugger initialized.
+[2025-11-05 12:54:40] Debugger run_code() started.
+[2025-11-05 12:54:40] Code compiled successfully.
+[2025-11-05 12:54:40] Emitted step at line=1
+[2025-11-05 12:56:15] Debugger ready handshake sent.
+[2025-11-05 12:56:15] Session ID received: 7c2b5c08-11f4-469e-af3f-b695fab03c37
+[2025-11-05 12:56:15] User code loaded (6 lines).
+[2025-11-05 12:56:15] TraceFoxDebugger initialized.
+[2025-11-05 12:56:15] Debugger run_code() started.
+[2025-11-05 12:56:15] Code compiled successfully.
+[2025-11-05 12:56:15] Emitted step at line=1
+[2025-11-05 12:57:01] Debugger ready handshake sent.
+[2025-11-05 12:57:01] Session ID received: e97f4b17-ae51-4875-a816-1fe72375fbae
+[2025-11-05 12:57:01] User code loaded (7 lines).
+[2025-11-05 12:57:01] TraceFoxDebugger initialized.
+[2025-11-05 12:57:01] Debugger run_code() started.
+[2025-11-05 12:57:01] Code compiled successfully.
+[2025-11-05 12:57:01] Emitted step at line=1
+[2025-11-05 12:57:03] Received command: step
+[2025-11-05 12:57:03] Emitted step at line=2
+[2025-11-05 12:57:13] Received command: step
+[2025-11-05 12:57:13] Emitted step at line=3
+[2025-11-05 12:57:18] Received command: step
+[2025-11-05 12:57:18] Emitted step at line=4
+[2025-11-05 13:03:58] Debugger ready handshake sent.
+[2025-11-05 13:03:58] Session ID received: 1f09c1dc-1103-4b36-8b14-5f6e01110a02
+[2025-11-05 13:03:58] User code loaded (6 lines).
+[2025-11-05 13:03:58] TraceFoxDebugger initialized.
+[2025-11-05 13:03:58] Debugger run_code() started.
+[2025-11-05 13:03:58] Code compiled successfully.
+[2025-11-05 13:03:58] Emitted step at line=1
+[2025-11-05 13:03:59] Received command: step
+[2025-11-05 13:03:59] Emitted step at line=2
+[2025-11-05 13:04:11] Received command: step
+[2025-11-05 13:04:11] Emitted step at line=3
+[2025-11-05 13:04:14] Received command: step
+[2025-11-05 13:04:14] Emitted step at line=4
+[2025-11-05 13:05:45] Post-run EOF; exiting.
+[2025-11-05 13:05:45] Restored stdout/stderr and ended run_code().
+[2025-11-05 13:05:45] Debugger session completed.
+[2025-11-05 13:05:45] Post-run EOF; exiting.
+[2025-11-05 13:05:45] No command received; exiting debugger.
+[2025-11-05 13:05:45] Execution finished normally.
+[2025-11-05 13:05:45] No command received; exiting debugger.
+[2025-11-05 13:05:45] Execution finished normally.
+[2025-11-05 13:05:45] Sent final output to controller.
+[2025-11-05 13:05:45] Post-run EOF; exiting.
+[2025-11-05 13:05:45] No command received; exiting debugger.
+[2025-11-05 13:05:45] No command received; exiting debugger.
+[2025-11-05 13:05:45] Execution finished normally.
+[2025-11-05 13:05:45] Execution finished normally.
+[2025-11-05 13:05:45] Sent final output to controller.
+[2025-11-05 13:05:45] Post-run EOF; exiting.
+[2025-11-05 13:05:45] Restored stdout/stderr and ended run_code().
+[2025-11-05 13:05:45] Debugger session completed.
+[2025-11-05 13:05:45] No command received; exiting debugger.
+[2025-11-05 13:05:45] Execution finished normally.
+[2025-11-05 13:05:45] Sent final output to controller.
+[2025-11-05 13:05:45] Post-run EOF; exiting.
+[2025-11-05 13:05:45] Restored stdout/stderr and ended run_code().
+[2025-11-05 13:05:45] Debugger session completed.
+[2025-11-05 13:05:45] No command received; exiting debugger.
+[2025-11-05 13:05:45] Execution finished normally.
+[2025-11-05 13:05:45] Sent final output to controller.
+[2025-11-05 13:05:45] Post-run EOF; exiting.
+[2025-11-05 13:05:45] Restored stdout/stderr and ended run_code().
+[2025-11-05 13:05:45] Debugger session completed.
+[2025-11-05 13:13:20] Debugger ready handshake sent.
+[2025-11-05 13:13:20] Session ID received: e78ec31d-495a-4c30-9bbe-e25440016515
+[2025-11-05 13:13:20] User code loaded (6 lines).
+[2025-11-05 13:13:20] TraceFoxDebugger initialized.
+[2025-11-05 13:13:20] Debugger run_code() started.
+[2025-11-05 13:13:20] Code compiled successfully.
+[2025-11-05 13:13:20] Emitted step at line=1
+[2025-11-05 13:13:24] Debugger ready handshake sent.
+[2025-11-05 13:13:24] Session ID received: cbb8603e-b363-4969-bfd8-04a31daaae23
+[2025-11-05 13:13:24] User code loaded (5 lines).
+[2025-11-05 13:13:24] TraceFoxDebugger initialized.
+[2025-11-05 13:13:24] Debugger run_code() started.
+[2025-11-05 13:13:24] Code compiled successfully.
+[2025-11-05 13:13:24] Emitted step at line=1
+[2025-11-05 13:13:29] No command received; exiting debugger.
+[2025-11-05 13:13:29] Execution finished normally.
+[2025-11-05 13:13:29] Restored stdout/stderr and ended run_code().
+[2025-11-05 13:13:29] No command received; exiting debugger.
+[2025-11-05 13:13:29] Execution finished normally.
+[2025-11-05 13:14:42] Debugger ready handshake sent.
+[2025-11-05 13:14:42] Session ID received: ee636b4a-78e8-47d8-a787-f31d579c4e10
+[2025-11-05 13:14:42] User code loaded (6 lines).
+[2025-11-05 13:14:42] TraceFoxDebugger initialized.
+[2025-11-05 13:14:42] Debugger run_code() started.
+[2025-11-05 13:14:42] Code compiled successfully.
+[2025-11-05 13:14:42] Emitted step at line=1
+[2025-11-05 13:14:45] Received command: step
+[2025-11-05 13:14:45] Emitted step at line=2
+[2025-11-05 13:14:46] Received command: step
+[2025-11-05 13:14:46] Emitted step at line=3
+[2025-11-05 13:14:46] Received command: step
+[2025-11-05 13:14:46] Emitted step at line=4
+[2025-11-05 13:14:47] Received command: step
+[2025-11-05 13:14:47] Emitted step at line=5
+[2025-11-05 13:14:47] Received command: step
+[2025-11-05 13:14:47] Execution finished normally.
+[2025-11-05 13:14:47] Sent final output to controller.
+[2025-11-05 13:14:59] Debugger ready handshake sent.
+[2025-11-05 13:14:59] Session ID received: cf40e842-14f6-427d-acf8-f38e44ffb1ea
+[2025-11-05 13:14:59] User code loaded (5 lines).
+[2025-11-05 13:14:59] TraceFoxDebugger initialized.
+[2025-11-05 13:14:59] Debugger run_code() started.
+[2025-11-05 13:14:59] Code compiled successfully.
+[2025-11-05 13:14:59] Emitted step at line=1
+[2025-11-05 13:15:00] Received command: step
+[2025-11-05 13:15:00] Emitted step at line=2
+[2025-11-05 13:15:01] Received command: step
+[2025-11-05 13:15:01] Emitted step at line=3
+[2025-11-05 13:16:04] Post-run EOF; exiting.
+ting debugger.
+[2025-11-05 13:16:04] Restored stdout/stderr and ended run_code().
+[2025-11-05 13:16:04] Debugger session completed.
+[2025-11-05 13:16:04] Restored stdout/stderr and ended run_code().
+[2025-11-05 13:19:28] Debugger ready handshake sent.
+[2025-11-05 13:19:28] Session ID received: b3e16c10-d8a7-4f5b-afee-ad7dd72bad81
+[2025-11-05 13:19:28] User code loaded (5 lines).
+[2025-11-05 13:19:28] TraceFoxDebugger initialized.
+[2025-11-05 13:19:28] Debugger run_code() started.
+[2025-11-05 13:19:28] Code compiled successfully.
+[2025-11-05 13:19:28] Emitted step at line=1
+[2025-11-05 13:19:31] Received command: step
+[2025-11-05 13:19:31] Emitted step at line=2
+[2025-11-05 13:19:34] Received command: step
+[2025-11-05 13:19:34] Emitted step at line=3
+[2025-11-05 13:19:41] Received command: step
+[2025-11-05 13:19:41] Emitted step at line=4
+[2025-11-05 13:19:45] Received command: step
+[2025-11-05 13:19:45] Emitted step at line=5
+[2025-11-05 13:19:49] Received command: step
+[2025-11-05 13:19:49] Execution finished normally.
+[2025-11-05 13:19:49] Sent final output to controller.
+[2025-11-05 13:19:54] Debugger ready handshake sent.
+[2025-11-05 13:19:54] Session ID received: bd058c38-5b7c-48c9-a26b-bdc19a98985d
+[2025-11-05 13:19:54] User code loaded (5 lines).
+[2025-11-05 13:19:54] TraceFoxDebugger initialized.
+[2025-11-05 13:19:54] Debugger run_code() started.
+[2025-11-05 13:19:54] Code compiled successfully.
+[2025-11-05 13:19:54] Emitted step at line=1
+[2025-11-05 13:19:55] Received command: step
+[2025-11-05 13:19:55] Emitted step at line=2
+[2025-11-05 13:19:55] Received command: step
+[2025-11-05 13:19:55] Emitted step at line=3
+[2025-11-05 13:19:56] Received command: step
+[2025-11-05 13:19:56] Emitted step at line=4
+[2025-11-05 13:19:56] Received command: step
+[2025-11-05 13:19:56] Emitted step at line=5
+[2025-11-05 13:19:56] Received command: step
+[2025-11-05 13:19:56] Execution finished normally.
+[2025-11-05 13:19:56] Sent final output to controller.
+[2025-11-05 13:21:07] Post-run EOF; exiting.
+[2025-11-05 13:21:07] Restored stdout/stderr and ended run_code().
+[2025-11-05 13:21:07] Debugger session completed.
+[2025-11-05 13:21:07] Post-run EOF; exiting.
+[2025-11-12 11:41:37] Debugger ready handshake sent.
+[2025-11-12 11:41:37] Session ID received: f6de1187-3ba4-4617-addc-104445020da0
+[2025-11-12 11:41:37] User code loaded (6 lines).
+[2025-11-12 11:41:37] TraceFoxDebugger initialized.
+[2025-11-12 11:41:37] Debugger run_code() started.
+[2025-11-12 11:41:37] Code compiled successfully.
+[2025-11-12 11:41:37] Emitted step at line=1
+[2025-11-12 11:41:40] Received command: step
+[2025-11-12 11:41:40] Emitted step at line=2
+[2025-11-12 11:41:50] Received command: step
+[2025-11-12 11:41:50] Emitted step at line=3
+[2025-11-12 11:41:52] Received command: step
+[2025-11-12 11:41:52] Emitted step at line=4
+[2025-11-12 11:41:58] Received command: step
+[2025-11-12 11:41:58] Emitted step at line=5
+[2025-11-12 11:41:59] Received command: step
+[2025-11-12 11:41:59] Execution finished normally.
+[2025-11-12 11:41:59] Sent final output to controller.
+[2025-11-12 11:42:25] Debugger ready handshake sent.
+[2025-11-12 11:42:25] Session ID received: 182642a0-5a71-4d83-863a-24fc34c22df1
+[2025-11-12 11:42:25] User code loaded (6 lines).
+[2025-11-12 11:42:25] TraceFoxDebugger initialized.
+[2025-11-12 11:42:25] Debugger run_code() started.
+[2025-11-12 11:42:25] Code compiled successfully.
+[2025-11-12 11:42:25] Emitted step at line=1
+[2025-11-12 11:42:29] Received command: step
+[2025-11-12 11:42:29] Emitted step at line=2
+[2025-11-12 11:42:30] Received command: step
+[2025-11-12 11:42:30] Emitted step at line=3
+[2025-11-12 11:42:31] Received command: step
+[2025-11-12 11:42:31] Emitted step at line=4
+[2025-11-12 11:42:33] Received command: step
+[2025-11-12 11:42:33] Emitted step at line=5
+[2025-11-12 11:42:58] Debugger ready handshake sent.
+[2025-11-12 11:42:58] Session ID received: 198e7ed5-d430-4954-832f-edb12ba43192
+[2025-11-12 11:42:58] User code loaded (6 lines).
+[2025-11-12 11:42:58] TraceFoxDebugger initialized.
+[2025-11-12 11:42:58] Debugger run_code() started.
+[2025-11-12 11:42:58] Code compiled successfully.
+[2025-11-12 11:42:58] Emitted step at line=1
+[2025-11-12 11:43:01] Received command: step
+[2025-11-12 11:43:01] Emitted step at line=2
+[2025-11-12 11:43:01] Received command: step
+[2025-11-12 11:43:01] Emitted step at line=3
+[2025-11-12 11:43:02] Received command: step
+[2025-11-12 11:43:02] Emitted step at line=4
+[2025-11-12 11:43:03] Received command: step
+[2025-11-12 11:43:03] Runtime exception: Traceback (most recent call last):
+  File "D:\sem5\.NET\IMP project\TraceFox - Debugger\TraceFox - Debugger\TraceFoxPython\debugger.py", line 126, in run_code
+    self.run(compiled)
+  File "E:\proj SQLBOOK\SQLBook\Languages\Python\Lib\bdb.py", line 600, in run
+    exec(cmd, globals, locals)
+  File "<string>", line 4, in <module>
+ZeroDivisionError: division by zero
+
+[2025-11-12 11:43:03] Restored stdout/stderr and ended run_code().
+[2025-11-12 11:43:03] Debugger session completed.
+[2025-11-12 11:43:13] No command received; exiting debugger.
+[2025-11-12 11:43:13] Execution finished normally.
+[2025-11-12 11:43:13] Sent final output to controller.
+[2025-11-12 11:43:13] Post-run EOF; exiting.
+[2025-11-12 11:43:13] Restored stdout/stderr and ended run_code().
+[2025-11-12 11:43:13] Debugger session completed.
+[2025-11-12 11:43:13] Post-run EOF; exiting.
+[2025-11-12 11:43:13] Restored stdout/stderr and ended run_code().
+[2025-11-12 11:43:13] Debugger session completed.
+[2025-11-12 11:43:37] Debugger ready handshake sent.
+[2025-11-12 11:43:37] Session ID received: 5bedc501-fb3f-4646-b4fb-03019fd51f75
+[2025-11-12 11:43:37] User code loaded (6 lines).
+[2025-11-12 11:43:37] TraceFoxDebugger initialized.
+[2025-11-12 11:43:37] Debugger run_code() started.
+[2025-11-12 11:43:37] Code compiled successfully.
+[2025-11-12 11:43:37] Emitted step at line=1
+[2025-11-12 11:43:38] Received command: step
+[2025-11-12 11:43:38] Emitted step at line=2
+[2025-11-12 11:43:38] Received command: step
+[2025-11-12 11:43:38] Emitted step at line=3
+[2025-11-12 11:43:39] Received command: step
+[2025-11-12 11:43:39] Emitted step at line=4
+[2025-11-12 11:43:39] Received command: step
+[2025-11-12 11:43:39] Emitted step at line=5
+[2025-11-12 11:43:39] Received command: step
+[2025-11-12 11:43:39] Execution finished normally.
+[2025-11-12 11:43:39] Sent final output to controller.
+[2025-11-12 11:43:42] Post-run EOF; exiting.
+[2025-11-12 11:43:42] Restored stdout/stderr and ended run_code().
+[2025-11-12 11:43:42] Debugger session completed.
+[2025-11-12 12:35:52] Debugger ready handshake sent.
+[2025-11-12 12:35:52] Session ID received: accb86ba-aede-4d7d-b0fa-fc8ff00df3b4
+[2025-11-12 12:35:52] User code loaded (6 lines).
+[2025-11-12 12:35:52] TraceFoxDebugger initialized.
+[2025-11-12 12:35:52] Debugger run_code() started.
+[2025-11-12 12:35:52] Code compiled successfully.
+[2025-11-12 12:35:52] Emitted step at line=1
+[2025-11-12 12:35:55] Received command: step
+[2025-11-12 12:35:55] Emitted step at line=2
+[2025-11-12 12:36:00] Received command: step
+[2025-11-12 12:36:00] Emitted step at line=3
+[2025-11-12 12:36:01] Received command: step
+[2025-11-12 12:36:01] Emitted step at line=4
+[2025-11-12 19:55:11] No command received; exiting debugger.
+[2025-11-12 19:55:11] Execution finished normally.
